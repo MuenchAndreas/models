@@ -1,0 +1,3 @@
+data/obj/1.Carnica_bee_on_solidago.jpg1 37,43,1042,853,0
+data/obj/1.Varroamilbe.jpg1
+data/obj/11.220px-Varroa_destructor_bee.jpg1 39,36,196,125,0 72,72,91,90,3
