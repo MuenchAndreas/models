@@ -1,572 +1,372 @@
-data/obj/1.drohne-maennliche-biene.jpg 25,86,496,409,2
-data/obj/1.Drone_bee__2832-image_macro_stack_29.jpg 93,56,468,429,2
-data/obj/10.220px-Drohn_im_Flug_08-3.jpg 41,79,441,477,2
-data/obj/10.biene-drohne-400-93544874.jpg 41,95,482,447,2
-data/obj/10.honey-bee-drone-aw.jpg 18,29,482,452,2
-data/obj/11.canstockphoto16388515.jpg 59,77,448,470,2
-data/obj/11.drohnenabtrieb_2.jpg 248,122,400,229,0 237,202,437,350,2
-data/obj/11.drone-600-px.jpg 98,77,355,459,2
-data/obj/12.Apis_mellifera_Male_featured_image.jpg 48,104,484,445,2
-data/obj/12.drone-600-px.jpg 93,70,371,481,2
-data/obj/13.biene-drohne-400-93746102.jpg 121,106,405,368,2
-data/obj/13.drone-bee-524x277.jpg 53,66,503,456,2
-data/obj/14.fe_api_castesofhoneybee_clip_image002.jpg 287,95,412,481,1 162,52,282,416,2 21,91,130,375,0
-data/obj/15.drone-bee.jpg 48,29,493,441,2
-data/obj/15.fe_api_castesofhoneybee_clip_image002.jpg 30,100,132,370,0 159,75,278,395,2 284,100,409,488,1
-data/obj/16.449b62cc5d30047b4be412534a39e73a.jpg 75,131,453,359,2
-data/obj/17.Biene.jpg 123,50,491,456,0
-data/obj/17.drone-bee.jpg 43,25,503,463,2
-data/obj/2.Drone_25a.jpg 41,184,484,488,2
-data/obj/20.Done-drone.jpg 84,20,484,481,2
-data/obj/20.what-is-role-of-drones-in-bee-family.jpg 21,125,509,472,2
-data/obj/21.depositphotos_61415851-stock-photo-bee-drone.jpg 28,159,459,388,2
-data/obj/21.drone.jpg 14,109,459,393,2
-data/obj/22.0114-bee-macro-save-our-bees-sydney-australia-400x267.jpg 21,20,503,479,2
-data/obj/22.honigbiene-drohne-biene-mannlich-b33x3c.jpg 153,104,455,416,2
-data/obj/23.drone.jpg 34,97,412,395,2
-data/obj/24.0114-bee-macro-save-our-bees-sydney-australia-400x267.jpg 23,1,500,479,2
-data/obj/25.Drohne.jpg 73,141,425,406,2
-data/obj/26.11150_original.jpg 75,70,387,329,2
-data/obj/26.biene-drohne-und-bienenarbeiter-close-up-400-99441739.jpg 189,54,314,320,2 362,352,512,462,0 121,336,280,479,0 3,336,141,481,0 280,277,450,368,0 18,293,200,379,0
-data/obj/27.11150_original.jpg 66,72,398,329,2
-data/obj/27.image.jpg 205,16,355,313,2 175,166,316,372,0
-data/obj/28.472bf08f9b0ce44d56f6b52bd1ca1042.jpg 16,220,212,495,0 207,143,493,350,2
-data/obj/28.Drohne1.jpg 37,22,198,377,2 230,100,416,375,0 128,341,432,443,0
-data/obj/28.drone-363060_1920-featured.jpg 159,102,305,409,2
-data/obj/29.truten-eto-samec-pcheli.jpg 55,168,493,461,2
-data/obj/30.biene-drohne-apis-mellifera-400-93551184.jpg 148,56,384,420,2
-data/obj/32.drone-344984_960_720.jpg 166,131,400,361,2
-data/obj/34.DRONECIMG_6760-680x662.jpg 1,4,214,222,0 105,104,437,441,2 307,1,505,252,0 41,261,298,452,0 107,422,388,512,0
-data/obj/34.lowres.jpg 23,50,300,509,2
-data/obj/36.drone_John-Brandauer-600x347.jpg 184,154,398,434,2 53,204,193,400,0 37,27,191,181,0 209,27,421,266,0 387,34,512,209,0 150,386,345,512,0
-data/obj/37.biene-drohne-400-93551185.jpg 39,63,437,438,2
-data/obj/37.drone-363060_1920-featured.jpg 148,93,328,452,2
-data/obj/37.drone_John-Brandauer-600x347.jpg 175,147,412,445,2 368,9,512,186,0 139,381,339,512,0 46,195,189,384,0 9,20,189,177,0
-data/obj/4.Drohne.jpg 73,93,498,425,2
-data/obj/40.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg 184,43,412,479,1 82,200,262,445,0 343,9,505,311,0
-data/obj/40.honigbiene-drohne-biene-mannlich-b33wmt.jpg 178,93,291,395,2 46,227,200,445,0 257,179,471,352,0 350,1,512,131,0 418,250,512,459,0
-data/obj/41.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg 71,197,266,481,0 175,36,405,479,1 359,1,505,327,0
-data/obj/42.Drohne.jpg 182,127,284,256,2 368,188,468,288,0 3,227,105,316,0 87,72,153,236,0 323,77,371,220,0 382,295,446,452,0 259,297,312,450,0 180,272,312,397,2 59,434,164,506,0
-data/obj/43.Das_20Bienenvolk_Koenigin_2C_20Drohnen_20und_20_20Arbeiterinnen_shutterstock_63903511-e3d677eb.jpg 107,220,346,393,1 332,4,480,200,0 223,1,322,195,0 92,1,205,206,0 12,52,159,261,0 1,281,141,492,0 243,397,454,512,0
-data/obj/48.drohne-oder-biene-9b32cac2-2d08-4218-ab29-8e68ea8db925.jpg 32,6,382,512,2
-data/obj/48.drone-big-eyes2.jpg 34,54,496,477,2
-data/obj/49.depositphotos_160818248-stock-photo-bee-and-drone.jpg 46,102,300,379,2 291,143,473,409,0
-data/obj/5.drohn-arbeitsbiene.5ff41bd89d3727646d9383b405b2680d.jpg 73,43,446,252,2 121,163,375,506,0
-data/obj/51.drone-big-eyes2.jpg 34,77,493,434,2
-data/obj/52.maxresdefault.jpg 112,216,307,434,2
-data/obj/53.maxresdefault.jpg 118,209,316,443,2
-data/obj/54.Drone-Bee.jpg 80,59,421,445,2
-data/obj/55.drone-bee-inside-a-beehive.jpg 130,72,387,409,2 6,1,187,179,0 16,225,187,461,0
-data/obj/56.Drone-Bee.jpg 71,63,423,427,2
-data/obj/58.bee_carefulseptember-kolumne-lea-fabienne.png.thumb.jpg 178,150,271,338,0
-data/obj/59.drohne.jpg 43,13,484,466,2
-data/obj/59.drone-bee-inside-a-beehive.jpg 134,91,418,413,2 1,1,193,185,0 28,245,182,463,0 391,236,512,452,0
-data/obj/6.84703147-biene-k_C3_B6nigin-mutter-und-drohne-und-bienen-arbeiter-drei-arten-von-bienen-apis-mellifera-.jpg 5,181,198,391,1 218,186,362,400,2 368,218,505,388,0
-data/obj/6.maxresdefault.jpg 105,84,264,350,0 228,34,421,461,2
-data/obj/60.bestaeubung-102-resimage_v-variantBig24x9_w-1024.jpg 168,1,482,334,0
-data/obj/61.bee-2373914_1920-1-e1508135869786-1620x800.jpg 228,1,439,472,0
-data/obj/63.IMG_7561.jpg 1,163,375,402,2
-data/obj/64.a673304c8f6b551e6b4d5438545cc43d.jpg 57,147,389,354,2
-data/obj/64.bGryUv4.jpg 243,36,439,409,2 66,116,384,350,1
-data/obj/66.248643.image0.jpg 18,63,139,370,0 155,84,296,418,2 318,68,484,479,1
-data/obj/67.bGryUv4.jpg 268,59,432,413,2 62,118,396,347,1
-data/obj/7.220px-Drohn_im_Flug_08-3.jpg 62,77,414,475,2
-data/obj/7.dronebee.jpg 80,36,489,486,0
-data/obj/70.image.jpg 139,127,330,441,2
-data/obj/73.drohne-fliegen-eristalis-tenex-ein-hoverfly-biene-nachahmen-m4a8ay.jpg 143,61,437,413,2
-data/obj/74.Drohn.jpg 182,127,343,311,2
-data/obj/79.extreme-close-up-of-a-drone-bee-on-a-patch-of-moss-HYMYC2.jpg 75,63,296,384,2
-data/obj/79.extreme-nahaufnahme-einer-drohne-biene-auf-einen-patch-des-mooses-hymyc3.jpg 155,125,418,338,0
-data/obj/8.Apis_mellifera_Male_featured_image.jpg 41,93,459,429,2
-data/obj/8.b66c6a11fc9951557cc083095a1db9c9.jpg 334,52,498,434,2 178,70,303,395,0 30,70,148,466,1
-data/obj/83.DroneMating.jpg 162,16,441,502,2
-data/obj/84.image.jpg 64,45,430,463,2
-data/obj/86.bee-drone-bee-workers-close-up-98524160.jpg 193,38,316,263,2 200,295,448,445,0 80,227,214,431,0
-data/obj/88.14283379287_e6bebc45aa_b.jpg 19,13,496,512,2
-data/obj/88.biene-blume.jpg 389,68,512,266,0
-data/obj/9.canstockphoto16388515.jpg 46,88,462,461,2
-data/obj/9.honey-bee-drone-aw.jpg 12,31,496,441,2
-data/obj/90.drohn-arbeiterin.jpg 108,64,296,200,2
-data/obj/91.maxresdefault.jpg 237,62,1207,709,2
-data/obj/93.500_F_109984372_vcTrG2pvkwmRHydBsGrcYpvHImnqgWwS.jpg
-data/obj/94.drohne.jpg 383,217,1783,989,2
-data/obj/1.Bienenk_C3_B6nigin-vom-Hochzeitsflug-zur_C3_BCck-mit-abgebrochenen-Geschlechtsteil-Josef-Rosner-Architekt-www.KalCool.com-CC-BY-SA-3.0.jpg 87,161,371,325,1 287,277,512,472,0 50,268,289,477,0 305,20,503,186,0
-data/obj/1.GettyImages-71666555.jpg 39,136,491,375,1
-data/obj/1.IMG_9895_800x.jpg 28,150,500,386,1
-data/obj/10.bucki.jpg 114,197,455,413,1 200,4,491,252,0 1,43,216,280,0
-data/obj/11.carnica-bienenkoenigin-f1.jpg 187,68,325,343,1 75,259,225,450,0 246,272,378,486,0 355,322,512,480,0
-data/obj/12.2016-03-15-04.09.38.jpg 214,150,366,391,1 105,300,214,472,0 230,284,350,438,0 396,109,459,293,0 80,81,162,288,0 341,329,457,481,0 314,6,416,191,0 203,66,341,179,0 14,288,116,479,0 7,125,98,318,0
-data/obj/12.IVGHK5.jpg 153,179,348,347,1 73,306,221,431,0 150,52,278,195,0 257,31,355,193,0 334,79,482,225,0 248,277,437,379,0 318,222,512,337,0 1,97,175,196,0 21,218,230,300,0 248,336,393,456,0
-data/obj/13.Bienendom-ShopWare-Carnica-K-nigin.jpg 184,191,328,375,1 246,152,364,277,0 162,322,243,470,0 368,368,443,511,0 287,363,357,512,0 437,341,511,512,0 78,297,198,406,0 1,347,107,499,0 84,181,164,345,0 16,350,100,493,0 7,200,100,377,0 62,97,207,195,0
-data/obj/13.italian-queen-honey-bee__40802.1504052510.v2__24084.1542690694.jpg 178,88,357,427,1 1,341,243,505,0 1,268,184,419,0
-data/obj/14.5rwp53qt-1375417594.jpg 50,38,512,464,0
-data/obj/14.bio-bienenkoenigin-standbegattet.jpg 18,6,498,488,1
-data/obj/15.5rwp53qt-1375417594.jpg 34,25,512,440,0
-data/obj/16.role-of-queen-bees.jpg 98,104,418,381,1 250,302,475,500,0 83,1,189,238,0
-data/obj/17.Bienenk_C3_B6nigin-gezeichnet-jschwenkel-1024x670.jpg 1,54,425,440,1
-data/obj/17.queen-bee-life-cycle-1.jpg 175,163,314,391,1 25,238,196,336,0 5,143,180,261,0 130,25,232,184,0 253,216,421,313,0 409,302,478,504,0 278,338,398,495,0 337,86,459,247,0 225,52,357,191,0 241,127,400,238,0
-data/obj/18.101009459-queen-bee-lays-eggs-in-the-honeycomb-.jpg 125,166,321,445,1 280,225,418,379,0 271,329,473,475,0 1,113,180,264,0 191,27,353,195,0 314,1,409,218,0
-data/obj/18.60236779-bienenk_C3_B6nigin-wird-von-den-arbeitern-bienen-immer-umgeben-ihre-diener-.jpg 121,150,398,379,1 82,295,278,495,0 216,56,439,204,0 1,200,189,376,0 334,118,512,311,0 243,381,433,512,0 48,1,196,175,0 1,50,132,227,0
-data/obj/18.beesex.jpg 46,102,282,434,2 205,97,398,363,0
-data/obj/19.queen-bee-life-cycle-1.jpg 180,161,287,391,1 246,216,416,311,0 9,152,178,263,0 9,243,200,320,0 278,329,391,481,0 382,309,484,493,0 243,211,421,329,0 232,50,359,209,0 366,77,466,284,0 132,34,234,193,0 173,1,362,81,0 66,75,180,225,0
-data/obj/2.100973799-queen-bee-is-always-surrounded-by-the-workers-bees-_E2_80_93-their-servant-.jpg 107,266,253,477,0 323,111,503,286,0 159,81,328,356,1 275,4,484,172,0 225,336,325,512,0 316,243,493,400,0 266,266,421,459,0 21,104,175,216,0 43,181,189,343,0 1,300,143,448,0 1,5,189,141,0
-data/obj/2.bienenkoenigin_nahaufnahme.png.thumb.jpg 21,127,489,431,1
-data/obj/2.carniolan-queen-honey-bee-for-sale-Lappes-Bee-Supply-min__30054.1542723696.jpg 118,38,321,434,1 323,113,512,261,0 299,304,484,512,0 1,16,146,175,0 1,318,98,487,0
-data/obj/20.32670_original.jpg 178,172,296,411,1 134,2,262,191,0 259,338,409,500,0 305,306,459,452,0 316,268,489,377,0 284,200,466,306,0 382,50,503,227,0 262,29,343,218,0 316,11,425,231,0 73,293,218,441,0 7,245,173,395,0 30,166,212,304,0 28,63,180,200,0
-data/obj/20.die-aufgabe-der-bienenkoenigin-ist-es-eier-zu-legen-und-so-den-fortbestand-des-volkes-zu-sichern.jpg 37,84,284,504,0
-data/obj/20.Queen-Bee-e1564621122331.jpg 2,45,508,441,1
-data/obj/21.14210_original.jpg 253,155,361,297,1 269,275,395,367,0 325,201,429,301,0 329,119,441,209,0 181,195,283,257,0 179,395,259,495,0 263,365,391,429,0
-data/obj/21.Bienenbilder.jpg 1,13,189,512,1 179,7,349,507,2 361,11,501,435,0
-data/obj/23.ape-regina-laterza-870x489.jpg 65,175,343,473,1 289,225,512,489,0 271,3,433,263,0
-data/obj/25.cc-bienenkoenigin-DW-Vermischtes-Kleinschmalkalden-jpg.jpg 1,121,512,465,1
-data/obj/25.italian-queen-honey-bee__40802.1504052510.v2__24084.1542690694.jpg 205,107,339,439,1 1,339,253,511,0 1,263,177,427,0
-data/obj/26.2016-03-15-04.09.38.jpg 219,137,365,391,1 107,311,193,475,0 81,95,171,279,0 403,113,463,295,0 23,297,113,477,0 199,53,343,189,0 333,7,411,185,0 343,327,451,477,0 239,291,351,437,0
-data/obj/26.image-147440-860_panofree-lkin-147440.jpg 143,1,364,403,1 9,101,185,327,0
-data/obj/27.Drohne.jpg 73,67,497,415,2
-data/obj/28.32670_original.jpg 179,187,301,419,1 273,363,417,507,0 309,319,459,445,0 325,271,471,371,0 297,207,459,301,0 151,399,289,509,0 381,65,501,213,0 319,15,435,195,0 267,1,354,191,0 198,1,317,151,0 132,1,247,179,0 23,65,177,195,0 33,185,193,287,0 1,261,209,381,0 71,307,235,437,0
-data/obj/28.Matedqueen.jpg 207,241,379,319,1 53,209,171,279,0 153,355,209,457,0 215,343,351,419,0 295,81,353,201,0
-data/obj/29.queen-bee-and-workers.jpg 203,139,287,365,1 1,121,115,281,0 27,207,201,311,0 281,393,411,512,0 241,11,331,169,0 391,5,499,181,0 213,373,269,507,0 157,379,213,512,0 35,277,197,391,0 1,355,151,483,0 287,213,439,323,0 287,295,425,389,0
-data/obj/3.K_C3_96.jpg 143,81,393,486,1 1,277,175,407,0 207,1,468,252,0
-data/obj/30.ligustica-bienenkoenigin-f1.jpg 119,131,327,433,1 43,19,241,135,0 359,117,507,317,0 197,369,305,512,0 41,323,191,512,0
-data/obj/30.queenbee_125882129_250.jpg 199,203,279,401,1 245,105,323,251,0 403,97,499,241,0 1,177,125,322,0 45,259,195,347,0 29,315,203,417,0 291,325,419,411,0 297,261,449,353,0 313,391,451,463,0
-data/obj/32.bienenk_C3_B6nigin.jpg 35,103,415,395,1
-data/obj/33.queen-bee.jpg 31,147,487,355,1
-data/obj/33._th7_BE07-Z116_bienenkoenigin.jpg 157,171,337,441,1 19,293,175,477,0 51,103,127,299,0 1,77,53,269,0 349,177,405,421,0 403,305,493,512,0 407,119,512,287,0 219,3,285,185,0 105,27,239,211,0
-data/obj/34.1462751003869.jpg 195,105,419,285,1 11,3,167,229,0 129,231,259,449,0 393,1,512,293,0
-data/obj/34.573401.jpg 67,129,465,437,1 1,335,395,512,0
-data/obj/34.queenbee-1200x675.jpg 247,209,343,413,1 139,283,175,399,0 159,355,235,443,0 1,337,41,474,0 429,147,497,267,0 411,347,509,411,0 349,31,413,97,0
-data/obj/36.beesex.jpg 51,105,303,453,2 221,89,401,383,0
-data/obj/36.image.jpg 229,15,477,437,1 137,67,315,397,0
-data/obj/37.1462751003869.jpg 201,79,427,303,1 117,239,265,461,0 1,9,155,231,0 391,1,511,297,0
-data/obj/37.Umweiseln-9267-300x175.jpg 185,29,463,413,1
-data/obj/38.P1010666_ausschnitt_klein.jpg 179,203,255,397,1 359,327,415,485,0 375,103,463,183,0
-data/obj/39.$_72.jpg 77,59,453,449,1
-data/obj/39.queen-bee.jpg 23,67,497,509,0
-data/obj/4.100973799-queen-bee-is-always-surrounded-by-the-workers-bees-_E2_80_93-their-servant-.jpg 171,79,337,368,1 321,141,512,283,0 282,4,482,177,0 103,277,264,481,0 14,111,173,220,0 321,245,500,400,0 207,329,348,509,0 1,300,141,444,0 39,175,200,334,0
-data/obj/4.Apis_mellifera_scutellata_1355021.jpg 125,118,387,350,1 103,311,259,481,0 325,334,420,512,0 341,4,512,135,0 398,136,512,202,0 1,286,175,433,0 364,184,512,276,0 357,261,512,351,0 5,16,212,143,0
-data/obj/40.d41586-019-02771-6_17176008.jpg 131,65,427,387,2
-data/obj/40.queen-bee.jpg 41,165,475,363,1
-data/obj/41.$_72.jpg 97,71,449,379,1
-data/obj/42.Honeybees-building-combs.jpg 17,123,299,327,0
-data/obj/43.Markierte-Bienenk_C3_B6nigin-1-398x410.jpg 209,197,331,381,1
-data/obj/43.queen-bee.jpg 45,71,503,507,0
-data/obj/44.Besserer-Imkerhonig-11-300x300.jpg 179,243,273,329,1
-data/obj/45.IMG_0536sm.jpg 175,109,435,481,1
-data/obj/48.OSBeehives-Blog-QueenBee_1024x1024.jpg 87,25,367,509,1
-data/obj/5.Carnica-Bienenk_C3_B6nigin-gezeichnet-markiert.jpg 101,163,477,393,1 371,352,600,532,0 139,417,409,568,2 50,4,315,150,0 9,158,139,398,0 458,4,590,193,0 1,328,236,546,0
-data/obj/5.queen-1.jpg 166,205,347,378,1 39,24,196,154,0 303,1,400,144,0 422,163,542,341,0 381,58,505,219,0 318,354,457,522,0 59,173,203,312,0 30,312,161,437,0
-data/obj/5.queen-bees-mated-1_1024x1024.jpg 226,58,412,510,1 1,153,229,328,0 272,318,558,573,0 409,116,640,284,0
-data/obj/51.Umweiseln-0227-300x225.jpg 78,35,284,168,1
-data/obj/52.Koenigin_12_0.jpg 164,14,385,223,1 268,164,448,292,0 11,202,181,335,0 1,68,162,190,0
-data/obj/52.Queen-Bee-e1564621122331.jpg 54,113,1059,850,1
-data/obj/53.bienenkoenigin.jpg 225,28,469,215,1
-data/obj/56.bienenkoenigin-bienenvolk-imker100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg 151,141,715,445,1 511,273,951,517,0
-data/obj/56.queen-bee-beekeeping.jpg 1,28,782,365,1
-data/obj/58.P1010195_bearb_klein.jpg 402,281,670,469,1 418,449,558,677,0 182,453,374,641,0 266,177,498,285,0 714,361,850,589,0 434,13,662,141,0
-data/obj/59.697301962__281_29.jpg 370,458,518,690,1 550,250,666,390,0 578,434,750,526,0 302,166,406,294,0 250,670,390,830,0
-data/obj/59.queen-bee-in-bee-hive-laying-eggs.jpg 198,125,312,309,1 367,45,445,218,0 116,76,258,160,0 338,269,476,396,0 152,307,274,418,0 94,225,201,358,0 461,123,518,285,0
-data/obj/6.Apis_mellifera_scutellata_1355021.jpg 546,776,1464,2103,1 336,1913,1082,2858,0 1269,2076,1636,3072,0 1,1703,836,2638,0 1,1422,700,1957,0 2,1,873,794,0 971,1,1409,1003,0 1,1022,736,1376,0 1300,1176,2047,1620,0 1391,1613,2047,2036,0 1291,576,2047,1129,0
-data/obj/6.bienenkonig_600x600.jpg 74,228,547,385,1 301,101,600,306,0 236,371,577,574,0 116,355,323,600,0 92,1,212,212,0
-data/obj/61.OSBeehives-Blog-QueenBee_1024x1024.jpg 262,22,666,550,1
-data/obj/62.71241314-die-bienenk_C3_B6nigin-von-den-bienen-umgeben-die-unterst_C3_BCtzung-und-futtermittel.jpg 331,215,599,667,1 578,162,905,357,0 936,136,1184,373,0 699,383,984,567,0 47,341,315,599,0
-data/obj/63.23188283_high.jpg 436,289,753,811,1 964,378,1280,694,0 803,561,1164,900,0 725,400,1014,700,0 69,744,475,933,0 308,1,536,361,0 758,44,947,416,0 1030,139,1292,478,0
-data/obj/64.queen-bee-in-bee-hive-laying-eggs.jpg 198,129,310,316,1 107,71,261,167,0 376,36,454,200,0 338,274,476,394,0 150,309,263,414,0 81,223,201,365,0 454,123,534,285,0
-data/obj/66.IMG_0131-1024x683.jpg 334,275,546,451,1 422,475,590,555,0 70,299,246,391,0 582,203,738,335,0 750,119,898,255,0
-data/obj/68.queen-bee-beekeeping.jpg 7,25,798,387,1
-data/obj/7.queen-1.jpg 164,197,366,383,1 37,27,208,146,0 339,361,442,524,0 76,163,205,307,0 422,178,549,337,0 37,319,154,432,0 293,1,381,141,0 381,56,510,197,0 430,371,550,500,0
-data/obj/70.09678850_high.jpg 369,287,802,435,1 793,373,1007,668,0 545,554,764,763,0 498,421,769,592,0 1,36,298,206,0 1,169,259,335,0 1005,1,1121,273,0 526,1,747,240,0
-data/obj/71.Bienendom-ShopWare-Buckfast-K-nigin2a0h5Pd3knp5T.jpg 995,532,1275,1402,1 225,1262,635,1802,0 245,492,495,1072,0 1645,212,1925,762,0 1005,52,1525,462,0 505,32,865,652,0
-data/obj/71.dscf0166a-524x394.jpg 1,16,491,188,1
-data/obj/72.b66c6a11fc9951557cc083095a1db9c9.jpg 21,26,143,220,1 171,35,267,171,0 298,20,431,202,2
-data/obj/73.5423771-SMPT-58b8e27a5f9b58af5c909f7a.jpg 279,144,624,466,1 1,369,273,544,0 533,284,709,548,0 136,26,379,226,0 52,123,303,284,0 1,257,288,390,0
-data/obj/74.6409_Product.jpg 145,191,570,760,1
-data/obj/77.83809479-queen-bee-is-always-surrounded-by-the-workers-bees-their-servant-.jpg 531,176,762,807,1 815,286,1300,528,0 778,523,1268,855,0 52,512,505,770,0 1,115,378,539,0 120,1,478,412,0 689,670,1162,1039,0
-data/obj/78.buckfast-bienenkoenigin.jpg 59,32,125,155,1 111,62,189,116,0 126,118,213,152,0 4,2,81,70,0
-data/obj/79.bees-1163028_1920.jpg 1,189,362,410,1 16,467,316,584,0
-data/obj/8.101009459-queen-bee-lays-eggs-in-the-honeycomb-.jpg 323,276,864,753,1 688,370,1094,664,0 729,559,1147,841,0 488,23,917,376,0 1,176,464,434,0 1,547,376,810,0
-data/obj/8.bienenko-nnigin_belegstellenbegattetDuvybQmRAc0Y7_600x600.jpg 196,53,390,350,1 255,261,504,375,0 382,1,568,185,0 152,74,261,301,0 98,12,309,123,0
-data/obj/80.Bienenkoenigin_ml.jpg 342,171,626,743,1 562,515,886,843,0 34,247,302,619,0 238,11,482,407,0 98,515,294,915,0
-data/obj/81.kisspng-western-honey-bee-queen-bee-beehive-drone-save-bees-how-you-can-help-save-our-bees-austra-5bd2801261ae67.6606297815405220024001.jpg 223,44,720,769,1
-data/obj/84.Weiselzucht_Buckfast_640x480.jpg 301,171,428,298,1 416,186,511,253,0 346,63,401,161,0 431,348,543,411,0 168,353,283,423,0 101,236,206,298,0 476,408,571,468,0 548,291,618,396,0 121,108,241,171,0
-data/obj/85.bienenk_C3_B6nigin-mutter-und-brummen-und-bienenarbeitskraft-drei-arten-biene-98524249.jpg 15,165,494,359,1 510,170,905,412,2 947,202,1257,370,0
-data/obj/87.$_72.jpg 100,187,259,235,1 159,63,231,160,0 232,53,292,159,0 227,210,323,262,0 2,52,75,159,0
-data/obj/87.queen-bee-in-bee-hive-laying-eggs.jpg 167,165,367,247,1 87,214,174,334,0 343,278,410,418,0 381,207,490,354,0 238,294,367,400,0 223,225,361,314,0 230,14,356,147,0
-data/obj/89.633.jpg 191,111,346,393,1 323,196,503,331,0 306,1,416,173,0 116,48,276,163,0 448,113,640,239,0
-data/obj/9.buckfast-bienenkoenigin-f1.jpg 550,504,968,1313,1 223,1440,786,1995,0 1286,667,1777,1304,0 1504,149,2000,638,0 813,267,1250,795,0 1104,831,1686,1449,0 932,1331,1577,1840,0 682,1531,1032,2000,0 1732,795,2000,1272,0 1,828,513,1158,0
-data/obj/9.queen-bees-mated-1_1024x1024.jpg 204,70,449,521,1 289,304,535,604,0 381,98,640,280,0 1,170,215,311,0
-data/obj/90.IMG_3299-1.jpg 88,324,909,660,1 504,645,1020,892,0 1004,107,1320,487,0
-data/obj/91.maxresdefault.jpg 582,262,837,477,1
-data/obj/92.img_155631-1_high.jpg 195,76,698,390,1
-data/obj/93.K_C3_B6niginnen-werden-mit-Gelee-Royale-gef_C3_BCttert-Propolis-Honig.de_.jpg 189,218,274,426,1 235,111,305,230,0 376,116,461,239,0 1,201,120,332,0 29,339,182,428,0 282,298,408,362,0 314,415,437,501,0 259,443,378,545,0 197,424,264,545,0
-data/obj/96.C53Y39-6.jpg 219,188,616,415,1 485,1,603,204,0 366,1,484,209,0 61,36,324,228,0
-data/obj/97.bienenk_C3_B6nigin-840x480.jpg 291,168,408,315,1 701,55,781,168,0 648,185,744,278,0 701,348,838,441,0 471,375,598,445,0 544,205,634,328,0 424,25,501,138,0 34,55,108,185,0
-data/obj/98.~eine-bienenk_C3_B6nigin-in-der-mitte_26884702_high.jpg 530,422,842,566,1 730,550,830,739,0 1153,511,1308,783,0 1019,255,1236,455,0 603,639,742,905,0 292,711,458,839,0 164,583,297,816,0 42,333,214,511,0 119,122,219,355,0 414,94,597,339,0 664,128,780,394,0
-data/obj/99.Bienenk_C3_B6nigin-auf-Wabe.jpg 124,92,294,197,1 160,185,272,247,0 2,38,115,137,0 133,1,195,128,0
-data/obj/1.cs_0726_NF_Bees_miteonbee_1280x720.jpg 31,19,441,501,0
-data/obj/1.Varroamilbe.jpg
-data/obj/10.DSC01141-001.jpg 93,101,403,467,0
-data/obj/10.varroamitesb.jpg 135,105,307,439,0 305,52,512,351,0
-data/obj/11.220px-Varroa_destructor_bee.jpg 93,157,327,391,0
-data/obj/12.Honigbiene.jpg 1,15,459,512,0
-data/obj/12.Varroa-mite-UF.jpg 85,75,439,417,0
-data/obj/13.maxresdefault.jpg 121,77,419,433,0
-data/obj/13.Varroa-Varroamilbe-Bienenlarve.jpg
-data/obj/15.r0_0_1772_1158_w1200_h678_fmax.jpg 105,171,371,439,0
-data/obj/15.Varroa-mite-33.jpg 1,283,155,512,2 307,23,512,366,2
-data/obj/16.cs_0726_NF_Bees_brokenwings_700px.jpg 15,59,493,459,0
-data/obj/16.Varroa-mite-33.jpg 317,33,512,360,2 117,145,319,433,2 7,299,175,512,2
-data/obj/17.cs_0726_NF_Bees_brokenwings_700px.jpg 5,23,493,449,0
-data/obj/17.image-361156-860_panofree-wjji-361156.jpg 5,1,417,483,0
-data/obj/17.varroa-destructor-mites.jpg
-data/obj/18.8856545015_ee85f344b5_b.jpg 183,131,395,405,0
-data/obj/18.Tote-Bienen-mit-Milben.jpg 357,67,435,185,0 431,41,512,138,0 33,11,145,87,0
-data/obj/19.8856545015_ee85f344b5_b.jpg 173,133,403,411,0
-data/obj/19.Queenbee_with_Varroa_Mite_2010.jpg 55,163,473,339,1 1,343,259,506,0
-data/obj/2.urn-newsml-dpa-com-20090101-190120-99-639527-large-4-3-jpg.jpg
-data/obj/2.Varroa-Mite-on-Bee-Featured-Image.jpg 235,3,389,491,0
-data/obj/20.biene-varroa-milbe.jpg 101,31,415,479,0
-data/obj/20.Queenbee_with_Varroa_Mite_2010.jpg 57,161,479,355,1 1,352,231,495,0
-data/obj/21.DDP_15407sm.jpg 1,4,357,461,0
-data/obj/21.NZ%20varroa%20on%20bee%2012%20Mar%202007%20Dr%20Rob%20Manning%20photo.jpg
-data/obj/21.NZ_20varroa_20on_20bee_2012_20Mar_202007_20Dr_20Rob_20Manning_20photo.jpg
-data/obj/22.varroa-mites-on-bees.jpg 51,55,211,229,0 293,179,401,367,0 1,99,111,361,0 391,145,505,311,0
-data/obj/22.varroamilben-setzen-sich-in-die-brutwaben-bevor-d-sven-christian-schulz-utopia-190815_download.jpg 13,203,93,327,0 235,75,345,181,0 417,181,511,317,0 71,69,195,141,0
-data/obj/23.62719.jpg 141,107,401,347,2
-data/obj/23.varroa-mites-on-bees.jpg 291,179,397,377,0 51,57,207,229,0 1,96,109,351,0 391,153,512,313,0 351,57,512,152,0
-data/obj/24.62719.jpg 123,101,415,359,2
-data/obj/25.honeybee-mite2.jpg 107,29,487,503,0
-data/obj/25.varroamilbe_im_bienenstock.6e70621835b0ae3a03ab459391516ab9.jpg
-data/obj/26.af6db70325a33cfaa0a143d7799e7123.jpg 15,57,487,387,0
-data/obj/26.bild-104738-resimage_v-variantBig24x9_w-1024.jpg
-data/obj/27.af6db70325a33cfaa0a143d7799e7123.jpg 7,39,505,441,0
-data/obj/27.b1.jpg
-data/obj/27.mite460.jpg 182,1,427,193,0
-data/obj/28.bee-85576_1920-1200x640.jpg 1,18,367,473,0
-data/obj/28.Titelbild_Varroa-Milbe_UHOH-Bettina-Ziegelmann.jpg 31,117,423,441,0
-data/obj/29.23-93237846-23-93237848-1510503796.jpg 101,91,423,449,0
-data/obj/29.varroa-mite-1280x720.jpg
-data/obj/3.Milbe-im-Bienenstock.jpg 357,69,413,267,0 293,41,367,241,0 193,3,253,209,0 97,41,169,255,0 25,15,73,215,0 75,1,147,181,0 433,73,487,253,0
-data/obj/3.Varroa_Mite.jpg
-data/obj/30.Varroa-mite-41.jpg 37,137,229,325,0 227,245,431,383,0
-data/obj/31.mite-labeled.jpg 191,303,291,443,0 297,289,409,425,0 59,339,163,475,0 133,131,251,263,0 327,93,487,231,0
-data/obj/32.Varroa-mite-41.jpg 229,243,429,381,0 39,145,243,313,0
-data/obj/33.mite-labeled.jpg 293,287,423,415,0 131,125,267,265,0 175,301,295,447,0 325,81,467,227,0 65,343,163,465,0
-data/obj/33.mites-on-brood.jpg 11,79,173,211,0 273,1,380,225,0 305,39,507,151,0
-data/obj/34.11-08-24_194446sm.jpg
-data/obj/34.6nwp4rcb-1400116742.jpg 139,103,373,367,0
-data/obj/35.6nwp4rcb-1400116742.jpg 145,107,385,365,0
-data/obj/36.varroar_20170611_1859195468.jpg
-data/obj/38.mites-on-brood.jpg 15,79,173,213,0 273,25,373,217,0 345,49,503,159,0 399,143,512,327,0
-data/obj/38.varroamilbe-bienensterben.jpg 55,137,367,479,0
-data/obj/39.0905f7f377dd17151a33c9576d8c656ev1_max_470x353_b3535db83dc50e27c1bb1392364c95a2.jpg 21,51,189,365,0 181,103,337,425,0 327,143,495,465,0
-data/obj/4.bee-85576_1280_0.jpg 3,43,415,461,0
-data/obj/40.11516024-3x2-700x467.jpg 61,107,331,401,0
-data/obj/41.pests_beesandwasps_varroamites-768x512.jpg
-data/obj/41.Varroa-mite-blood-sucking-006.jpg
-data/obj/41.Varroamilben.jpg 135,93,235,335,0 63,117,171,397,0 321,235,467,399,0 143,269,283,457,0 223,19,345,167,0
-data/obj/42.bee-85576_1920-1200x640.jpg 21,35,389,481,0
-data/obj/44.11516024-3x2-700x467.jpg 75,101,313,409,0
-data/obj/44.antidepressivumgegenvarroamilbe2body.5754851.jpg 131,93,327,431,0
-data/obj/44.huang-varroa-mites-3.jpg
-data/obj/45.varroa-mites.jpg 191,125,281,385,0
-data/obj/46.female-varroa-mite.jpg
-data/obj/46.huang-varroa-mites-3.jpg
-data/obj/47.bienensterben-varroamilbe-bild-640x381.jpg 231,219,401,453,0
-data/obj/47.varroa_mite07.jpg
-data/obj/48.DSC_0437-2.jpg 57,161,395,439,0 319,11,512,265,0
-data/obj/49.female-varroa-mite.jpg
-data/obj/49.insecticidei.jpg 49,73,299,323,0 60,259,339,512,0 325,1,511,313,0
-data/obj/49.Varroa1.jpg 55,141,399,489,0 168,1,395,289,0
-data/obj/5.biene-honigbiene-varroa-milbe-parasiten-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg 85,89,505,451,0
-data/obj/50.honeybee-mite2.jpg 129,69,485,485,0
-data/obj/50.st_154526_sm.jpg
-data/obj/51.DSC_0437-2.jpg 59,177,399,447,0 327,13,507,251,0
-data/obj/51.varroamilbe.jpg 119,119,463,349,0
-data/obj/52.bienen-bienenstock-bienensterben-varroa-bienenbrut-waben-eier-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg 189,1,411,159,0
-data/obj/53.mites-on-larva-791x382.jpg 321,315,435,461,0
-data/obj/54.Bee-colony-infested-with-Varroa-Honey-Bee-Mites-Varroa-destructor-syn-Jaco-2.jpg 147,147,473,449,0
-data/obj/55.Bee-colony-infested-with-Varroa-Honey-Bee-Mites-Varroa-destructor-syn-Jaco-2.jpg 159,149,479,439,0
-data/obj/55.beekeeping.jpg 179,13,249,165,0
-data/obj/56.insecticidei.jpg 53,83,301,327,0 56,259,335,512,0 313,3,512,290,0
-data/obj/57.collage_biene_milbe.jpg 488,235,774,659,0 745,211,1088,587,0
-data/obj/58.01-35361-varroa.jpg 55,26,167,268,0 221,53,348,314,0
-data/obj/59.c3f5f0ae25a4140917c72bee716f11fav1_max_755x566_b3535db83dc50e27c1bb1392364c95a2.jpg
-data/obj/6.maxresdefault.jpg 232,72,1157,672,0
-data/obj/6.varroa_miteiqm91fo6w0h0both.jpg 171,104,863,504,0
-data/obj/61.urn-newsml-dpa-com-20090101-150919-99-01610-large-4-3.jpg 70,59,536,334,0
-data/obj/61.varroamite.jpg 108,98,447,328,0
-data/obj/63.varroa-mites-on-larva.jpg
-data/obj/64.806091379-varroamilbe-westliche-honigbiene-imkerei-parasit.jpg 247,110,912,453,0
-data/obj/65.varroamite.jpg 91,69,447,303,0
-data/obj/66.Sonne-lockt-die-Bienen_1547976083544387_v0_h.jpg 254,69,442,269,0 54,109,215,305,0
-data/obj/66.Varroa-mite-32.jpg
-data/obj/66.varroa-mites-on-larva.jpg
-data/obj/69.Biosecurity_Varroa1_GCI.jpg 304,19,501,476,0
-data/obj/69.image.jpg
-data/obj/7.maxresdefault.jpg 157,57,1162,652,0
-data/obj/7.Varroa-mite-2.jpg 53,41,291,215,0
-data/obj/71.68747266_214503236197130_4447091157671501363_n.jpg
-data/obj/71.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg 87,51,366,234,0
-data/obj/72.Biosecurity_Varroa1_GCI.jpg 298,51,482,488,0
-data/obj/74.CAP_ABJ_2012-1-Aronstein_0_1.jpg 484,146,702,336,0 462,15,650,235,0
-data/obj/74.DSC_2954-Kopie-1024x685.jpg 54,504,170,672,0 886,456,990,656,0 566,352,742,508,0 350,492,502,612,0 678,112,766,308,0 794,172,954,296,0 158,320,286,492,0
-data/obj/76.1568881195-GettyImages-98158696-e1568881215152-960x540.jpg 716,399,920,537,0 370,233,573,364,0 393,345,608,445,0 693,72,773,245,0 198,395,343,540,0 1,195,231,349,0 316,103,527,206,0 1,37,170,201,0 50,299,127,483,0 773,6,943,168,0
-data/obj/76.Huang-Fig-3-2.jpg
-data/obj/76.IMG_14983_ausschnitt_sm.jpg 84,17,203,183,0
-data/obj/77.288822229-varroamilbe-westliche-honigbiene-imkerei-parasit.jpg 320,26,477,345,0 281,306,658,499,0 54,195,339,449,0
-data/obj/78.anotherspeci.jpg 372,50,560,413,0 517,1,719,213,0
-data/obj/79.1755_2872_1_g.jpg 210,105,359,282,0
-data/obj/8.Varroa-mite-2.jpg 50,40,303,230,0
-data/obj/80.honey-pattern-pollen-golden-insect-fauna-964037-pxhere.com_.jpg 410,135,626,391,0 882,203,1024,439,0 654,487,934,675,0 374,399,474,659,0 210,59,402,279,0
-data/obj/80.varroa-mite-varroa-destructor-or-jacobsoni-a-parasite-on-a-bee-brood-comb-with-larvae-of-drone-bees-apis-mellifera-X993G4.jpg
-data/obj/81.DSC_2644-001.jpg
-data/obj/81.varroa_mite_1.jpg
-data/obj/82.varroa-biology-f1.jpg
-data/obj/84.bg-bee_hive_varroa_mite-001-Igor-Chus.jpg 1571,1,2000,571,0
-data/obj/85.image.jpg
-data/obj/86.500_F_109984395_e3bpxFueYVjbAa8ebFiWtjV5Vnsj4hQZ.jpg
-data/obj/86.mm-biggestkiller.jpg
-data/obj/87.BA31EA3C-AA14-4D70-AD5F-47406686854E_v0_l.jpg 62,103,191,271,0
-data/obj/87.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg 75,58,396,266,0
-data/obj/9.varroamilbe-varroa-destructor-wabe-bienenstock.jpg
-data/obj/9.varroa_miteiqm91fo6w0h0both.jpg 142,71,834,509,0
-data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg 157,204,1205,667,1
-data/obj/90.Varroa.jpg 1100,70,1370,441,0 1253,553,1500,995,0 900,658,1229,1000,0 859,176,1106,617,0 618,6,853,382,0 429,276,635,688,0 1,688,435,876,0
-data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg 563,173,843,441,0
-data/obj/95.34850.jpg 47,106,250,447,0
-data/obj/96.Honey_bee_and_mite.jpg 104,83,682,530,0
-data/obj/1.220px-Honigbiene-Basilikum-04.jpg 127,93,427,481,0
-data/obj/1.3179218B-6138-442F-AA4D3E3EF7E98924_source.jpg 101,51,411,261,0
-data/obj/1.Carnica_bee_on_solidago.jpg 73,15,423,439,0
-data/obj/1.worker-bee-adult.jpg 35,43,465,433,0
-data/obj/10.media.media.c77dafaf-290d-48fa-b32a-3c1ace5095e7.original1024.jpg 173,85,423,471,0
-data/obj/11.1834329645-biene_neu2-iGYcDngAqac.jpg 79,165,395,449,0
-data/obj/11.77899443-honey-bee-or-worker-bee-extreme-close-up-latin-apis-mellifera-crawling-on-a-white-cloth-in-italy-in-.jpg 177,207,371,459,0
-data/obj/11.honig-arbeiterbiene-bilder_csp5947188.jpg 101,133,287,339,0
-data/obj/12.5557092_artikeldetail_1q-jU2_GuxA1u.jpg 93,169,415,443,0
-data/obj/12.arbeiter-biene-auf-einem-weissen-hintergrund-isoliert-400-99363247.jpg 69,147,443,425,0
-data/obj/12.c096157c7e6dbcf6e8d0b05fbead9078v1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg 257,31,441,509,0
-data/obj/12.worker-bee-stinger.jpg 157,145,359,361,0
-data/obj/13.1834329645-biene_neu2-iGYcDngAqac.jpg 65,191,385,477,0
-data/obj/13.5557092_artikeldetail_1q-jU2_GuxA1u.jpg 93,157,415,455,0
-data/obj/13.bee-closup.jpg 63,155,433,441,0
-data/obj/13.c096157c7e6dbcf6e8d0b05fbead9078v1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg 247,21,431,512,0
-data/obj/13.Fotolia_115223963_M_800x.jpg 177,203,281,377,0 245,27,339,185,0 161,19,245,193,0 1,161,163,261,0 107,253,191,423,0 165,295,233,457,0 131,401,291,509,0 35,369,127,512,0 17,257,123,407,0 347,41,507,129,0
-data/obj/14.30544302408_d28ae15f09_z.jpg 119,95,267,291,0
-data/obj/14.biene.jpg 219,77,463,443,0
-data/obj/14.c096157c7e6dbcf6e8d0b05fbead9078v1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg 257,25,425,512,0
-data/obj/14.urn-newsml-dpa-com-20090101-170808-99-564240-large-4-3.jpg 191,133,431,345,0
-data/obj/15.Biene.jpg 43,69,449,457,0
-data/obj/15.image-1398156-860_poster_16x9-ivbs-1398156.jpg 45,69,185,205,0
-data/obj/15.primary_334_0.jpg 81,73,471,495,0
-data/obj/15.urn-newsml-dpa-com-20090101-170808-99-564240-large-4-3.jpg 189,143,425,347,0
-data/obj/16.57826f244c52527afd7ec56997b33b08v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg 81,137,309,335,0
-data/obj/16.Biene.jpg 39,63,467,427,0
-data/obj/17.57826f244c52527afd7ec56997b33b08v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg 71,135,305,345,0
-data/obj/17.Biene.jpg 41,81,455,443,0
-data/obj/17.GettyImages-200415242-001-56a520325f9b58b7d0daf222.jpg 63,203,409,445,0
-data/obj/17.Worker+Bee.jpg 83,89,459,427,0
-data/obj/18.bees.jpg 161,101,277,283,0 307,97,439,279,0
-data/obj/18.Eine_20Biene_20sammelt_20Bl_C3_BCtenpollen.jpg 161,117,409,347,0
-data/obj/18.urn-newsml-dpa-com-20090101-170808-99-564240-large-4-3.jpg 183,151,429,339,0
-data/obj/19.bee.jpg 57,103,435,415,0
-data/obj/19.Biene-e1466954834362.jpg 103,163,421,435,0
-data/obj/2.Apis_mellifera_Western_honey_bee.jpg 33,37,487,365,0
-data/obj/2.Biene.jpg 91,107,427,433,0
-data/obj/2.Das-Massensterben-der-Bienen_big_teaser_article.jpg 167,119,450,512,0
-data/obj/2.image-1459580-860_poster_16x9-tfex-1459580.jpg 123,37,479,451,0
-data/obj/2.Todd_Huffman_-_Lattice__28by_29.jpg 231,285,317,395,0 205,187,257,317,0 9,349,99,407,0 401,43,483,159,0 85,105,165,175,0 393,185,479,257,0
-data/obj/20.158978263-dpa-biene-1ENG.jpg 117,83,407,377,0
-data/obj/20.Macro-2017-210-bee-on-mint-blossom.jpg 9,131,427,361,0
-data/obj/21.158978263-dpa-biene-1ENG.jpg 107,77,403,387,0
-data/obj/21.53522208.jpg 189,11,479,307,0
-data/obj/22.146624355-h-720.jpg 65,145,427,469,0
-data/obj/22._105636026_gettyimages-1005384726.jpg 147,147,287,337,0
-data/obj/23.210210_web.jpg 237,205,371,375,1 77,175,227,265,0 235,51,347,223,0 113,259,275,391,0
-data/obj/23.biene-me.jpg 23,79,461,439,0
-data/obj/23.Eine_20Biene_20sammelt_20Bl_C3_BCtenpollen.jpg 173,107,401,349,0
-data/obj/24.bee_carefulseptember-kolumne-lea-fabienne.png.thumb.jpg 183,163,247,331,0
-data/obj/24.biene-me.jpg 25,71,453,445,0
-data/obj/24.bienensterben.jpg 63,131,299,269,0
-data/obj/25.158978263-dpa-biene-1ENG.jpg 101,83,397,369,0
-data/obj/25.E6B4C09D-94C6-4024-8E564318AAE85727_source.jpg 151,167,353,319,0
-data/obj/26.drohne-maennliche-biene.jpg 115,107,471,381,2
-data/obj/26.why_we_need_bees_1200x627.jpg 153,179,281,363,0
-data/obj/26.workerbeesse.jpg 313,295,455,383,0 189,321,305,475,0 57,225,193,343,0 331,161,433,291,0 295,65,365,231,0 173,15,257,171,0 103,319,223,457,0 51,109,177,229,0
-data/obj/27.2898857_1_gallerydetailpremium_dpa_5F9E040056A9C3F9.jpg 127,203,319,399,0
-data/obj/27.bienen-bio.jpg 105,121,411,431,0
-data/obj/28.739_0_BE1652.jpg 117,99,393,369,0
-data/obj/28.bee_flower_pollen_pouch.jpg 119,157,305,411,0
-data/obj/28.Biene-auf-lila-Bl_C3_BCte.jpg 249,117,439,281,0
-data/obj/29.Biene-sticht-AdobeStock_159423746-mirkograul-stock.adobe_.com_.jpg 243,179,311,285,0
-data/obj/29.biene.jpg 65,63,355,341,0
-data/obj/29.bienen-bio.jpg 109,131,409,433,0
-data/obj/3.84703137-worker-bee-isolated-on-a-white-background.jpg 71,155,451,431,0
-data/obj/3.bee-e1452114220653.jpg 125,129,385,441,0
-data/obj/3.biene100-resimage_v-tsmall169_w-512.jpg 111,95,413,439,0
-data/obj/3.Das-Massensterben-der-Bienen_big_teaser_article.jpg 169,105,443,512,0
-data/obj/30.1438802626-biene-bienensterben-1RpIW3lriCa7.jpg 291,125,473,367,0
-data/obj/30.bee-health-995.jpg 161,25,424,512,0
-data/obj/30.bienen-bio.jpg 119,135,419,439,0
-data/obj/31.bees.jpg 89,171,215,265,0 205,167,257,359,0 217,7,315,165,0 327,131,437,253,0 435,7,509,193,0 421,261,491,451,0
-data/obj/31.Biene-2.jpg 211,183,465,415,0
-data/obj/32.architect-bee-wax.jpg 123,193,199,333,0 401,253,512,356,0 383,51,435,207,0 375,293,421,439,0
-data/obj/32.honigbiene_bluete_l.jpg 37,41,439,375,0
-data/obj/32.ourbeeeyecam.jpg 287,245,409,375,0 111,91,235,201,0
-data/obj/33.57826f244c52527afd7ec56997b33b08v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg 85,131,299,343,0
-data/obj/33.78598059-die-arbeiterbiene-die-nach-s_C3_BC_C3_9Fem-saft-von-der-wei_C3_9Fen-blume-sucht.jpg 217,191,271,291,0
-data/obj/33.beeh3-1.jpg 289,275,353,341,0
-data/obj/34.arbeiter-biene-futtert-die-konigin-apis-mellifera-400-99551968.jpg 21,149,313,361,1 313,291,457,512,0 132,1,311,205,0
-data/obj/34.Biene-sticht-AdobeStock_159423746-mirkograul-stock.adobe_.com_.jpg 249,189,313,285,0
-data/obj/35.bee-flower-gty-jt-190708_hpMain_4x3_992.jpg 153,157,335,321,0
-data/obj/35.honig-biene-insekt-biene-fehler-arbeiter-biene-bug-mit-flugel-biene-auf-schnee-honigbiene-auf-schnee-biene-im-winter-biene-mit-flugel-nahaufnahme-von-biene-ho-a62k57.jpg 185,113,319,359,0
-data/obj/36.Bee+with+pollen+web.jpg 35,187,409,387,0
-data/obj/36.biene-portrait.jpg 143,137,335,349,0
-data/obj/36.dpa-urn-newsml-dpa-com-20090101-191107-99-632987_large_4_3.jpg 109,203,273,379,0
-data/obj/37.66394778_718152591942269_2846326713985959372_n.jpg 89,257,293,499,0
-data/obj/37.Biene-auf-lila-Bl_C3_BCte.jpg 247,123,447,261,0
-data/obj/38.Biene-auf-lila-Bl_C3_BCte.jpg 261,111,443,267,0
-data/obj/38.dpa-urn-newsml-dpa-com-20090101-190120-99-639527_large_4_3.jpg
-data/obj/38.fallback-biene-8137-10110.jpg 75,37,463,459,0
-data/obj/39.csm_biene-wabe-fotolia-74280932-gertrudda-header_e1313d086d.jpg 61,87,313,311,0
-data/obj/39.fallback-biene-8137-10110.jpg 81,51,459,439,0
-data/obj/39.honey-bee-worker-bee-on-flower-uk_u-l-q10rf2y0.jpg 97,181,355,375,0
-data/obj/39.sammeln-herbst-blume-arbeiterbiene-stock-foto_csp3609924.jpg 257,211,491,405,0
-data/obj/4.77381194-honig-biene-oder-arbeiter-biene-extreme-nahaufnahme-latein-apis-mellifera-crawlen-auf-einem-wei_C3_9Fen-tu.jpg 111,105,407,485,0
-data/obj/4.biene100-resimage_v-tsmall169_w-512.jpg 107,101,387,435,0
-data/obj/40.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,171,431,443,0
-data/obj/41.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,187,429,445,0
-data/obj/42.190520-1446-biene.jpg 151,159,381,461,0
-data/obj/42.220px-Nasinov_9024.jpg 113,67,453,455,0
-data/obj/42.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,181,421,437,0
-data/obj/43.190520-1446-biene.jpg 159,163,383,477,0
-data/obj/43.twosteppatht.jpg 143,35,297,347,1 323,219,451,391,0 121,311,237,512,0 343,73,499,197,0 299,333,420,512,0
-data/obj/44.csm_biene-wabe-fotolia-74280932-gertrudda-header_e1313d086d.jpg 59,77,317,287,0
-data/obj/44.unbenannt-701813_0.jpg 123,103,287,343,0
-data/obj/45.csm_biene-wabe-fotolia-74280932-gertrudda-header_e1313d086d.jpg 73,75,313,289,0
-data/obj/45.file-20180816-2915-kjqpm2.jpg 311,235,465,431,0
-data/obj/45.honigbiene_bluete_l.jpg 33,47,427,379,0
-data/obj/46.83809479-bienenk_C3_B6nigin-ist-immer-von-den-arbeiterbienen-umgeben-ihrem-diener-.jpg 203,93,319,355,1 13,255,197,363,0 337,143,512,269,0 63,1,189,201,0 1,43,145,253,0 305,265,491,399,0 281,335,459,512,0
-data/obj/46.Biene-2.jpg 203,177,463,371,0
-data/obj/46.dpa-urn-newsml-dpa-com-20090101-190120-99-639527_large_4_3.jpg
-data/obj/46.honigbiene_bluete_l.jpg 33,43,425,351,0
-data/obj/47.Biene.jpg 101,163,417,407,0
-data/obj/47.dpa-urn-newsml-dpa-com-20090101-190120-99-639527_large_4_3.jpg
-data/obj/48.unbenannt-701813_0.jpg 107,105,287,359,0
-data/obj/49.media.media.a2be6aa4-993b-4fb8-a9bf-335388c29c63.original1024.jpg 289,217,403,349,0
-data/obj/49.mm8241_140915_10538_crop.jpg 131,137,359,437,0
-data/obj/49.unbenannt-701813_0.jpg 121,99,281,349,0
-data/obj/5.ape-regina-laterza.jpg 65,179,327,445,1 281,13,437,279,0 321,245,512,423,0
-data/obj/5.Biene-oder-Wespe-Wo-ist-der-Unterschied_big_teaser_article.jpg 51,107,347,441,0
-data/obj/5.lgpost_1553204830604.jpg 137,159,467,451,0
-data/obj/50.2019_02_Biene_20auf_20Bl_C3_BCte_Pixabay_1000px-d010a56d.jpg 195,77,355,373,0
-data/obj/50.biene-auf-einer-blume-die-landwirtschaft-ist-von-den-bienen-abhaengig-die-blueten-bestaeuben-.jpg 215,151,429,353,0
-data/obj/51.2019_02_Biene_20auf_20Bl_C3_BCte_Pixabay_1000px-d010a56d.jpg 195,75,351,375,0
-data/obj/51.biene-bienen-bienensterben-insektensterben-artenschutz-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg 215,47,512,263,0
-data/obj/51.types-of-bee-drone-bee.jpg 69,85,457,431,2
-data/obj/52.Bee_Image_2_large.jpg 127,83,407,439,0
-data/obj/52.Queen-Bee-or-Worker-Bee.jpg 191,121,287,209,0 73,303,157,393,0 411,285,493,437,0 269,373,361,463,0 51,349,91,512,0 109,23,213,129,0 349,89,449,173,0 435,31,501,183,0
-data/obj/53.83809481-bienenk_C3_B6nigin-ist-immer-von-den-arbeiterbienen-umgeben-ihrem-diener-.jpg 149,135,319,335,1 27,299,143,509,0 307,217,512,322,0 243,367,425,512,0 305,295,512,412,0 149,293,247,507,0 297,85,447,259,0
-data/obj/53.biene-bienen-bienensterben-insektensterben-artenschutz-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg 213,39,512,360,0
-data/obj/53.biene-portrait-708x300.jpg 143,95,343,381,0
-data/obj/54.biene-auf-einer-blume-die-landwirtschaft-ist-von-den-bienen-abhaengig-die-blueten-bestaeuben-.jpg 207,155,427,377,0
-data/obj/54.Drone_bee__2832-image_macro_stack_29.jpg 115,173,411,419,2
-data/obj/55.biene-auf-einer-blume-die-landwirtschaft-ist-von-den-bienen-abhaengig-die-blueten-bestaeuben-.jpg 221,151,419,369,0
-data/obj/55.DSC_0189.jpg 203,195,295,275,0
-data/obj/56.bienensterben.jpg 49,99,293,271,0
-data/obj/56.FEATURE-INDIVIDUAL-BEE-iStock_000021868709XSmall4.jpg 117,163,373,403,0
-data/obj/57.67397876_365067647493549_5852317588228736737_n.jpg 207,257,445,429,0
-data/obj/57.biene-me.jpg 23,79,465,439,0
-data/obj/57.SEPT12_MCINTYRE_BEES_POST01.jpg 97,135,351,375,0
-data/obj/58.1438802626-biene-bienensterben-1RpIW3lriCa7.jpg 277,119,473,363,0
-data/obj/58.83013341-bienenk_C3_B6nigin-ist-immer-von-den-arbeiterbienen-umgeben-ihrem-diener-.jpg 211,103,257,201,0 225,199,303,333,1 65,121,117,213,0 387,391,449,509,0 343,413,387,512,0 281,391,325,512,0 385,257,479,303,0 47,359,149,451,0 103,285,191,347,0 121,191,215,259,0 263,125,329,205,0 387,117,491,195,0 279,3,337,99,0 355,29,393,135,0 415,9,463,111,0 159,367,211,469,0 7,363,89,459,0 397,293,467,379,0
-data/obj/58.when-a-worker-bee-collects-wild-flower-pollen-s-6-28-2019-10-05-01-am-l.jpg 199,95,297,227,0
-data/obj/59.02_warum_stechen_bienen_biene_auf_haut.jpg 97,85,307,457,0
-data/obj/59.1438802626-biene-bienensterben-1RpIW3lriCa7.jpg 285,119,473,355,0
-data/obj/6.2-format43.jpg 169,89,419,377,0
-data/obj/6.5557092_artikeldetail_1q-jU2_GuxA1u.jpg 95,167,425,469,0
-data/obj/6.77381194-honey-bee-or-worker-bee-extreme-close-up-latin-apis-mellifera-crawling-on-a-white-cloth-in-italy-in-.jpg 85,103,387,485,0
-data/obj/6.bee_16x9_0.jpg 117,67,365,467,0
-data/obj/60.bee-and-flower-1033327956-iStock_SusanneSchulz.jpg 55,147,237,303,0
-data/obj/60.Spreewild-Bienen-c-Fotolia-Alekss.jpg 261,149,479,405,0 35,191,217,443,0
-data/obj/61.65239046_170153167351870_2257215055846381047_n.jpg 165,169,427,341,0
-data/obj/61.Biene-01-49187.jpg 69,65,465,467,0
-data/obj/62.02_warum_stechen_bienen_biene_auf_haut.jpg 101,79,323,449,0
-data/obj/62.Biene-01-49187.jpg 79,61,467,423,0
-data/obj/62.BieneBoden.jpg 125,163,335,387,0
-data/obj/63.02_warum_stechen_bienen_biene_auf_haut.jpg 93,77,307,439,0
-data/obj/63.biene-bl_C3_BCte-300x193.jpg 81,163,235,357,0
-data/obj/63.Macro-Insect-Location-Shoot.jpg 165,7,383,391,0
-data/obj/64.biene-boris-smokrovic-174784-unsplash.jpg 253,121,383,281,0
-data/obj/64.Das_20Bienenvolk_Koenigin_2C_20Drohnen_20und_20_20Arbeiterinnen_shutterstock_63903511-e3d677eb.jpg 107,243,335,409,1 13,85,161,263,0 339,1,474,209,0 343,199,495,359,0 1,293,131,493,0
-data/obj/65.BieneBoden.jpg 115,149,335,405,0
-data/obj/65.DSC_0058_Franc_Sivic_kranjskasivka.jpg 275,125,367,361,0
-data/obj/65.Macro-Insect-Location-Shoot.jpg 167,5,405,405,0
-data/obj/65.worker-bee-250_medium.jpg 43,165,395,421,0
-data/obj/66.BieneBoden.jpg 111,165,353,415,0
-data/obj/66.Bienen_20nebeneinander.jpg 237,103,415,351,0 65,133,229,369,0
-data/obj/66.d3ca19fd56648205d13a67be2ebec092_XL.jpg 197,89,359,437,0
-data/obj/67.bee-family-honig.jpg 323,205,449,383,0
-data/obj/68.BeeJacketsMesh_3000px_72dpi__WEB_-14.jpg 121,129,393,403,0
-data/obj/68.Drone_25a.jpg 91,179,457,451,2
-data/obj/7.bee_1477918c.jpg 223,79,477,311,0
-data/obj/7.biene.jpg 233,75,457,459,0
-data/obj/7.image-1459580-860_poster_16x9-tfex-1459580.jpg 141,51,465,445,0
-data/obj/70.biene-auf-bluemchen-bee-points.jpg 83,157,373,313,0
-data/obj/71.bild-124594-resimage_v-variantBig24x9_w-1024.jpg 117,145,233,317,0
-data/obj/72.bee_carefulseptember-kolumne-lea-fabienne.png.thumb.jpg 187,193,243,321,0
-data/obj/72.Spreewild-Bienen-c-Fotolia-Alekss.jpg 27,213,223,449,0 257,155,473,421,0
-data/obj/73.biene-apfelbluete-101~_v-modPremium.jpg 155,137,287,363,0
-data/obj/73.D7D5CC-714x920.jpg 179,139,391,331,0
-data/obj/73.dpa-2372~_v-800x450_c-1566822515514.jpg 97,69,249,247,0
-data/obj/73.Spreewild-Bienen-c-Fotolia-Alekss.jpg 265,157,479,419,0 37,215,217,449,0
-data/obj/73.worker-bee-stinger.jpg 161,151,365,365,0
-data/obj/74.14357307880_6532fa01ac_z.jpg 199,43,259,217,0
-data/obj/74.Biene-Flug_pixabay-68166_JamesDeMers-CC0.jpg 217,143,323,485,0
-data/obj/74.dpa-2372~_v-800x450_c-1566822515514.jpg 93,77,237,245,0
-data/obj/75.Biene-Flug_pixabay-68166_JamesDeMers-CC0.jpg 221,137,309,495,0
-data/obj/75.dpa-2372~_v-800x450_c-1566822515514.jpg 95,77,243,275,0
-data/obj/75.worker-bee-250.jpg 45,165,367,433,0
-data/obj/76.Abeille-bee-profil.0c18432fe3a586784def6af1a408a993.jpg 31,51,465,493,0
-data/obj/76.rabochie-pcheli-yavlyayutsya-kem-kakogo-pola-rabochie-pcheli-sostav-pchelinoj-semi_6.jpg 73,37,471,417,0
-data/obj/76._108378052_bee.jpg 39,83,319,375,0
-data/obj/77.bee-1040521_1920.jpg 139,103,347,387,0
-data/obj/77.Biene-01-49187.jpg 63,43,463,449,0
-data/obj/77.biene-apfelbluete-101~_v-modPremium.jpg 151,135,275,337,0
-data/obj/78.bienenarbeit.jpg 183,115,251,359,0 273,245,443,451,0 9,53,93,265,0 253,29,435,165,0 89,107,161,357,0
-data/obj/78.bild-124594-resimage_v-variantBig24x9_w-1024.jpg 113,147,229,339,0
-data/obj/78.PB_Rapsblute_2019_5_UFOP.jpg 115,93,169,253,0
-data/obj/79.082813_1842_Anatomieder1.jpg 93,115,423,403,0
-data/obj/79.bild-124594-resimage_v-variantBig24x9_w-1024.jpg 107,139,237,343,0
-data/obj/79.macro-insects-bees-worker-bee-24446.jpg 137,211,227,371,0
-data/obj/8.Bee-mite-genome-33dmy1u8zvnhptcp42mtc0.jpg 91,89,435,449,0
-data/obj/8.Biene.jpg 31,53,457,483,0
-data/obj/8.Bienenbilder.jpg 31,9,163,511,1 201,23,321,493,2 375,29,487,399,0
-data/obj/80.9239.jpg 169,117,445,343,0
-data/obj/80.kombo-bienen-rottmann.jpg 377,222,512,325,0 263,299,373,445,0 159,373,247,505,0 13,357,133,465,0 115,147,201,263,0 193,189,311,325,0 307,109,411,245,0 249,73,339,191,0 349,29,481,93,0 31,279,171,385,0
-data/obj/80.maxresdefault.jpg 153,11,243,225,0 369,161,437,349,0
-data/obj/81.13243919_1252972924713178_8145486147687902786_o.jpg 403,215,497,313,0 333,69,371,195,0 225,105,293,255,0
-data/obj/81.Abeille-bee-profil.0c18432fe3a586784def6af1a408a993.jpg 25,75,473,405,0
-data/obj/81.arbeiter-biene-futtert-die-konigin-apis-mellifera-400-99502245.jpg 62,1,279,329,1 253,291,440,512,0
-data/obj/82.Abeille-bee-profil.0c18432fe3a586784def6af1a408a993.jpg 15,69,481,443,0
-data/obj/82.hero_help_bees_1280x530.jpg 207,37,405,387,0
-data/obj/82.image-147440-860_panofree-lkin-147440.jpg 161,1,348,377,1 1,103,177,319,0
-data/obj/83.istock-146954964.jpg 265,201,431,313,0
-data/obj/83.urn-newsml-dpa-com-20090101-140716-99-05861-large-4-3-jpg.jpg 233,251,487,415,0
-data/obj/84.9551602-3x2-700x467.jpg 161,19,415,369,0
-data/obj/86.sammelt-die-pollen-ein-eine.jpg 287,61,439,263,0
-data/obj/87.1_Biene_Biene_iStock-Brett_Blignaut.jpg 125,85,441,375,0
-data/obj/87.Biene.jpg 93,143,415,423,0
-data/obj/88.Biene.jpg 113,135,427,441,0
-data/obj/88.bienen-trinken.jpg 279,209,439,421,0 73,151,247,385,0
-data/obj/88.Honey-bee.jpg 147,111,341,329,0
-data/obj/89.honey-bee-354993_1280_viTWkx4.jpg 201,145,373,349,0
-data/obj/9.2-format43.jpg 165,87,421,351,0
-data/obj/9.arbeiterbiene-f870d58c-ed3d-491e-9e9a-8041467fa7df.jpg 263,117,429,425,0
-data/obj/9.wespe-und-biene-im-direkten-vergleich-sind-die-unterschiede-zwischen-biene-rechts-und-wespe-links-deutlich-zu-erkennen-.jpg 73,63,512,284,0
-data/obj/9.Worker-Bee.jpg 37,85,429,429,0
-data/obj/90.cs_0726_NF_Bees_miteonbee_1280x720.jpg 43,21,439,503,0
-data/obj/90.momentaufnahme-biene-blume-100~_t-1441441717272_v-16to9__medium.jpg 123,101,319,325,0
-data/obj/92.So-schuetzt-Mecklenburg-Vorpommern-seine-Bienen_mobile_default_2_1@2x.jpg 67,135,427,453,0
-
-
+data/obj/1.Bienenk_C3_B6nigin-vom-Hochzeitsflug-zur_C3_BCck-mit-abgebrochenen-Geschlechtsteil-Josef-Rosner-Architekt-www.KalCool.com-CC-BY-SA-3.0.jpg1 83,119,302,289,1 242,218,411,352,0 42,222,201,382,0 44,1,124,158,0 201,116,374,224,0 242,19,397,130,0 141,1,266,105,0 1,89,68,277,0
+data/obj/1.GettyImages-71666555.jpg1 45,123,389,307,1
+data/obj/1.IMG_9895_800x.jpg1 53,124,393,315,1
+data/obj/10.bucki.jpg1 104,167,382,337,1 14,50,201,236,0 197,1,341,182,0 316,2,416,180,0 266,293,416,385,0 139,348,387,416,0 52,320,163,416,0
+data/obj/11.carnica-bienenkoenigin-f1.jpg1 162,59,262,261,1 1,31,96,105,0 70,218,189,341,0 199,229,313,390,0 309,275,416,383,0 349,156,416,256,0
+data/obj/12.2016-03-15-04.09.38.jpg1 179,120,279,302,1 167,56,266,148,0 262,8,337,145,0 135,63,214,198,0 119,67,152,214,0 65,77,140,224,0 9,103,67,244,0 11,1,86,115,0 69,1,141,85,0 85,244,161,369,0 183,243,277,361,0 261,197,351,270,0 318,94,382,228,0 324,1,376,99,0 375,1,414,107,0 16,250,85,383,0 255,306,300,416,0 278,266,367,386,0 360,234,416,314,0
+data/obj/12.IVGHK5.jpg1 136,153,277,269,1 122,53,223,158,0 202,27,282,149,0 267,4,401,88,0 5,80,113,153,0 22,168,156,241,0 64,258,184,345,0 27,343,156,407,0 147,308,214,416,0 210,280,314,362,0 211,237,357,289,0 268,193,409,262,0 333,148,416,214,0 278,72,386,178,0 272,359,413,416,0
+data/obj/13.Bienendom-ShopWare-Carnica-K-nigin.jpg1 154,158,250,303,1 208,128,299,221,0 132,43,201,140,0 237,300,302,404,0 295,300,349,404,0 348,279,405,395,0 127,259,201,376,0 205,357,266,405,0 85,378,172,408,0 73,233,163,309,0 7,265,77,387,0 78,158,126,261,0 96,119,197,185,0 206,7,270,97,0 55,9,135,55,0 8,9,65,85,0 47,156,95,264,0 17,175,57,276,0 7,287,76,389,0 35,52,87,161,0 62,66,151,145,0 80,36,149,111,0
+data/obj/13.italian-queen-honey-bee__40802.1504052510.v2__24084.1542690694.jpg1 166,78,285,351,1 76,1,215,88,0 1,71,116,142,0 1,225,160,357,0 8,285,211,412,0 277,285,416,384,0 290,157,416,231,0
+data/obj/13.role-of-queen-bees.jpg1 87,93,342,300,1 210,256,376,401,0 66,301,175,416,0 62,5,175,187,0 260,7,416,80,0 301,86,416,209,0
+data/obj/14.5rwp53qt-1375417594.jpg1 64,45,405,345,0
+data/obj/14.bio-bienenkoenigin-standbegattet.jpg1 23,15,372,386,1
+data/obj/15.5rwp53qt-1375417594.jpg1 63,43,408,349,0
+data/obj/16.role-of-queen-bees.jpg1 82,92,337,306,1 61,1,171,177,0 262,2,413,75,0 212,247,382,403,0 310,79,416,218,0
+data/obj/17.Bienenk_C3_B6nigin-gezeichnet-jschwenkel-1024x670.jpg1 8,68,320,337,1
+data/obj/17.queen-bee-life-cycle-1.jpg1 146,139,248,311,1 58,63,151,197,0 10,130,133,208,0 23,196,154,258,0 1,253,108,327,0 92,282,162,369,0 187,40,287,152,0 146,3,288,62,0 262,1,364,82,0 286,80,382,184,0 322,156,416,208,0 241,228,363,288,0 210,180,338,242,0 233,280,320,392,0 312,266,386,387,0
+data/obj/18.101009459-queen-bee-lays-eggs-in-the-honeycomb-.jpg1 107,148,260,353,1 147,29,280,157,0 259,1,350,172,0 16,95,156,201,0 1,190,116,284,0 1,272,114,375,0 147,326,230,416,0 205,340,306,416,0 322,327,382,416,0 238,278,369,367,0 227,198,346,308,0 356,4,416,115,0 24,1,98,134,0
+data/obj/18.60236779-bienenk_C3_B6nigin-wird-von-den-arbeitern-bienen-immer-umgeben-ihre-diener-.jpg1 104,127,307,300,1 39,1,138,137,0 1,61,116,200,0 1,184,143,307,0 72,233,220,386,0 199,312,350,416,0 318,302,414,416,0 316,238,416,340,0 296,113,399,238,0 190,63,334,144,0 272,26,416,120,0 197,1,319,78,0 145,1,212,96,0
+data/obj/18.beesex.jpg1 60,89,237,354,2 188,108,320,305,1
+data/obj/19.220px-Bienenkoenigin4.jpg1 129,168,259,271,1 282,177,382,249,0 50,89,171,158,0 38,34,120,100,0 140,6,196,134,0 51,147,149,239,0 1,131,46,251,0 75,213,154,308,0 1,271,80,344,0 84,265,176,353,0 134,261,202,380,0 52,346,146,416,0 159,287,237,410,0 236,279,309,402,0 291,267,343,412,0 334,299,416,387,0 302,239,406,318,0 339,102,416,164,0 251,114,316,202,0 264,58,359,149,0 217,48,297,160,0 193,1,240,133,0
+data/obj/19.queen-bee-life-cycle-1.jpg1 146,139,246,313,1 126,30,187,147,0 58,72,146,187,0 9,130,128,209,0 22,199,150,270,0 1,254,97,315,0 92,282,156,380,0 182,289,248,392,0 235,282,322,391,0 320,262,387,386,0 244,223,365,288,0 215,183,337,248,0 206,105,317,185,0 194,46,284,146,0 149,6,278,74,0 268,1,353,79,0 338,1,386,63,0 287,83,376,187,0 330,158,416,206,0
+data/obj/2.100973799-queen-bee-is-always-surrounded-by-the-workers-bees-_E2_80_93-their-servant-.jpg1 142,75,257,281,1 254,196,402,319,0 221,224,339,358,0 89,231,218,380,0 1,243,101,352,0 35,153,158,270,0 8,92,141,171,0 12,5,128,93,0 232,17,382,135,0 258,129,410,217,0
+data/obj/2.bienenkoenigin_nahaufnahme.png.thumb.jpg1 27,125,403,350,1
+data/obj/2.carniolan-queen-honey-bee-for-sale-Lappes-Bee-Supply-min__30054.1542723696.jpg1 101,30,255,337,1 235,264,395,416,0 265,86,416,227,0 1,17,97,124,0
+data/obj/20.32670_original.jpg1 156,153,240,332,1 234,168,366,232,0 225,32,284,159,0 269,17,342,153,0 312,63,403,170,0 347,110,416,199,0 371,151,416,282,0 265,220,375,291,0 262,267,367,344,0 232,299,328,395,0 357,315,415,416,0 147,323,232,416,0 108,293,193,400,0 62,252,173,348,0 1,290,72,404,0 22,213,141,299,0 35,154,152,233,0 37,64,135,159,0 1,85,100,179,0 116,31,200,148,0 152,2,230,115,0 3,1,58,85,0
+data/obj/20.die-aufgabe-der-bienenkoenigin-ist-es-eier-zu-legen-und-so-den-fortbestand-des-volkes-zu-sichern.jpg1 41,91,206,396,0
+data/obj/20.Queen-Bee-e1564621122331.jpg1 38,57,409,385,1
+data/obj/21.14210_original.jpg1 207,134,282,238,1 268,171,337,241,0 29,35,87,95,0 114,39,185,84,0 195,66,266,115,0 263,82,337,119,0 284,113,364,162,0 323,11,401,77,0 274,1,320,79,0 242,355,289,416,0 225,292,315,349,0 192,291,247,352,0 161,322,200,392,0 80,358,147,415,0 41,328,86,390,0 4,329,62,392,0 52,293,111,333,0 105,251,162,299,0 133,204,197,250,0 170,228,221,294,0 154,159,214,203,0 131,102,193,160,0 160,9,206,71,0 18,68,68,144,0 56,92,103,146,0 76,148,132,192,0 9,133,63,196,0 14,192,74,241,0 69,223,113,270,0 20,245,84,287,0 1,207,22,285,0 73,7,102,67,0 78,54,136,91,0
+data/obj/21.Bienenbilder.jpg1 12,9,145,409,1 153,19,269,397,2 302,13,409,324,0
+data/obj/22.Eine-Bienenkoenigin-mit-einer-Nummer-auf-dem-Ruecken-in-einem-Bienenstock,1557838079205,bienekoenigin-100~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg1 191,184,335,288,1 267,263,367,371,0 316,97,399,231,0 354,204,416,286,0 252,10,316,167,0 319,1,400,85,0 176,11,264,156,0 105,15,182,154,0
+data/obj/23.ape-regina-laterza-870x489.jpg1 45,123,270,376,1 277,189,407,394,0 228,9,354,229,0 9,1,79,139,0 332,11,416,216,0 1,281,88,405,0
+data/obj/25.cc-bienenkoenigin-DW-Vermischtes-Kleinschmalkalden-jpg.jpg1 1,102,412,369,1 61,266,230,416,0 7,1,179,197,0 223,1,363,113,0
+data/obj/25.italian-queen-honey-bee__40802.1504052510.v2__24084.1542690694.jpg1 174,83,284,346,1 292,152,416,227,0 322,225,416,295,0 276,288,416,364,0 7,279,198,410,0 1,226,140,343,0 1,67,117,142,0 69,1,222,91,0
+data/obj/26.2016-03-15-04.09.38.jpg1 181,120,281,304,1 189,240,277,357,0 107,75,169,211,0 64,77,126,220,0 5,99,77,241,0 80,245,164,370,0 18,247,94,375,0 10,1,91,109,0 61,1,139,84,0 192,1,263,88,0 162,54,269,136,0 262,9,335,144,0 375,1,416,113,0 322,1,376,97,0 312,90,389,230,0 253,195,344,270,0 338,156,411,276,0 281,276,357,381,0 203,344,250,416,0 358,239,416,310,0
+data/obj/26.image-147440-860_panofree-lkin-147440.jpg1 122,1,292,307,1 259,1,361,189,0 1,103,139,266,0 16,1,168,126,0 219,199,332,416,0 105,307,194,416,0 10,232,106,416,0
+data/obj/27.Drohne.jpg1 77,76,407,338,2
+data/obj/28.32670_original.jpg1 157,149,236,324,1 239,169,367,239,0 262,219,383,293,0 258,266,368,347,0 225,293,327,398,0 142,324,235,413,0 106,289,192,401,0 63,251,179,348,0 1,298,65,407,0 22,209,140,301,0 32,150,152,233,0 28,60,138,158,0 8,89,93,181,0 1,145,51,196,0 113,25,193,145,0 150,2,235,114,0 221,32,290,155,0 271,14,345,155,0 308,54,409,169,0 342,98,416,195,0 6,1,57,85,0
+data/obj/28.Matedqueen.jpg1 174,198,290,252,1 122,192,177,257,0 55,175,132,221,0 19,162,93,207,0 55,110,127,153,0 12,141,91,173,0 17,22,53,93,0 77,5,159,48,0 136,22,218,64,0 103,47,149,103,0 132,81,189,138,0 162,107,240,141,0 137,143,212,182,0 214,130,268,193,0 264,172,336,218,0 93,256,166,308,0 63,239,118,298,0 23,233,90,287,0 11,336,86,386,0 93,304,130,373,0 64,369,141,399,0 129,291,170,363,0 165,317,224,386,0 176,285,251,339,0 216,329,269,398,0 246,333,316,373,0 292,328,353,380,0 286,366,375,414,0 346,375,409,415,0 351,319,416,377,0 281,299,361,332,0 296,279,386,309,0 240,258,313,307,0 229,239,298,280,0 288,215,348,267,0 344,220,393,286,0 360,203,411,264,0 345,153,414,202,0 317,135,353,204,0 245,75,292,149,0 269,59,321,131,0 294,39,354,101,0 329,76,407,127,0 355,40,416,76,0 347,1,391,51,0 222,2,310,40,0 217,35,254,107,0
+data/obj/29.queen-bee-and-workers.jpg1 156,110,242,301,1 38,173,166,240,0 1,99,92,211,0 211,13,262,135,0 329,23,404,135,0 248,183,358,243,0 237,238,337,306,0 358,207,416,269,0 332,231,397,341,0 280,303,374,373,0 234,324,336,416,0 169,302,227,416,0 121,301,181,411,0 65,332,132,416,0 22,289,120,386,0 39,232,152,300,0
+data/obj/3.carniolan-queen-honey-bee-for-sale-Lappes-Bee-Supply-min__30054.1542723696.jpg1 115,38,256,338,1 222,247,400,416,0 264,86,416,224,0 1,15,92,123,0 1,115,65,209,0
+data/obj/3.K_C3_96 - Kopie.jpg1 133,85,314,392,1 18,94,151,233,0 220,12,380,201,0 336,31,416,151,0 290,176,416,331,0 1,218,161,329,0 16,1,159,130,0
+data/obj/3.K_C3_96.jpg1 127,75,312,386,1 289,185,416,343,0 190,7,374,194,0 27,1,148,132,0 1,222,140,332,0 21,95,157,227,0
+data/obj/30.ligustica-bienenkoenigin-f1.jpg1 107,123,262,335,1 61,22,179,98,0 32,5,119,170,0 1,224,61,398,0 50,264,170,415,0 171,303,254,416,0 227,215,304,363,0 255,167,356,235,0 320,107,408,240,0 332,243,394,368,0 288,235,340,360,0 292,1,364,122,0 358,1,416,98,0
+data/obj/30.queenbee_125882129_250.jpg1 163,162,243,325,1 198,71,265,172,0 329,84,407,178,0 1,153,98,249,0 33,216,152,272,0 43,260,175,324,0 18,301,117,396,0 64,341,139,416,0 118,325,180,413,0 171,322,235,416,0 238,343,329,416,0 285,318,374,382,0 241,263,332,325,0 249,219,355,274,0 334,266,394,358,0 359,239,416,292,0
+data/obj/32.bienenk_C3_B6nigin.jpg1 42,74,309,314,1
+data/obj/33.queen-bee.jpg1 29,126,386,292,1
+data/obj/33._th7_BE07-Z116_bienenkoenigin.jpg1 132,154,262,353,1 14,259,124,371,0 37,104,97,244,0 75,120,168,224,0 100,42,183,161,0 171,9,231,143,0 215,1,277,99,0 304,1,374,105,0 339,107,416,238,0 275,159,344,315,0 337,253,395,414,0 1,62,43,213,0 30,1,82,85,0
+data/obj/34.1462751003869.jpg1 169,99,345,238,1 329,1,414,226,0 2,3,112,190,0 1,137,72,351,0 98,192,210,374,0 58,294,128,416,0 180,276,230,416,0 220,225,277,407,0 264,301,324,415,0 365,179,416,291,0 327,1,407,221,0 126,1,212,157,0
+data/obj/34.573401.jpg1 63,114,346,334,1 32,284,275,416,2 193,1,379,94,0 5,1,175,97,0 297,316,412,416,2
+data/obj/34.queenbee-1200x675.jpg1 211,184,269,337,1 63,59,106,146,0 30,10,83,82,0 123,47,149,114,0 142,45,178,113,0 189,83,212,138,0 100,175,159,233,0 106,229,142,315,0 67,230,122,311,0 1,294,43,386,0 62,319,114,402,0 107,332,168,392,0 174,300,239,363,0 119,292,186,352,0 308,267,337,353,0 289,332,346,397,0 241,331,276,416,0 278,25,336,78,0 335,50,362,151,0 264,66,305,119,0 321,165,383,222,0 348,121,400,203,0 89,122,136,178,0 239,336,287,416,0 338,318,410,384,0 335,362,397,413,0 334,287,409,332,0 330,251,398,303,0 288,204,347,270,0 266,161,312,240,0 16,172,61,237,0 19,85,71,145,0 10,124,62,175,0 2,29,22,98,0 193,61,241,119,0 209,15,256,80,0 233,6,273,51,0 342,4,376,52,0 351,29,397,70,0
+data/obj/35.Das_20Bienenvolk_Koenigin_2C_20Drohnen_20und_20_20Arbeiterinnen_shutterstock_63903511-e3d677eb.jpg1 96,194,279,321,1 1,233,102,408,1 66,312,137,416,1 207,324,338,412,1 329,328,413,416,1 287,159,403,286,1 268,1,392,157,1 188,1,288,156,1 78,1,173,172,1 20,59,123,210,0
+data/obj/36.beesex.jpg1 72,94,229,357,2 181,109,311,301,1
+data/obj/36.image.jpg1 197,19,393,324,1 106,54,251,319,0 51,1,143,213,0 157,329,325,416,0 281,253,416,404,0
+data/obj/37.1462751003869.jpg1 171,93,340,235,1 334,1,415,218,0 11,6,114,179,0 1,146,74,343,0 102,196,194,366,0 223,240,277,400,0 267,306,329,413,0 361,186,416,290,0 64,306,122,416,0 1,286,63,416,0 126,1,203,151,0
+data/obj/37.Umweiseln-9267-300x175.jpg1 159,39,373,321,1
+data/obj/38.P1010666_ausschnitt_klein.jpg1 155,176,196,319,1 238,197,288,298,0 306,84,372,149,0 320,220,398,287,0 285,262,336,381,0 371,164,416,227,0 201,286,243,341,0
+data/obj/39.$_72.jpg1 51,39,367,368,1 288,101,416,266,0
+data/obj/39.queen-bee.jpg1 41,64,386,393,0
+data/obj/4.100973799-queen-bee-is-always-surrounded-by-the-workers-bees-_E2_80_93-their-servant-.jpg1 142,64,254,281,1 6,1,138,100,0 15,99,140,170,0 194,1,267,95,0 233,10,386,132,0 84,235,210,385,0 1,243,112,353,0 33,143,152,267,0 195,279,269,416,0 224,219,340,361,0 262,193,404,321,0 252,127,414,234,0
+data/obj/4.Apis_mellifera_scutellata_1355021.jpg1 119,109,290,274,1 5,1,162,103,0 1,90,96,152,0 1,202,142,268,0 1,238,162,356,0 70,265,206,387,0 203,262,293,384,0 241,278,347,416,0 322,275,416,391,0 296,220,416,281,0 282,155,416,223,0 264,79,416,159,0 274,1,371,86,0 321,7,416,74,0 310,114,416,168,0
+data/obj/4.Bienenkoenigin3.jpg1 148,139,236,312,1 205,34,268,149,0 16,29,73,115,0 23,102,123,170,0 87,12,157,114,0 149,12,182,127,0 296,1,411,69,0 307,63,372,172,0 230,133,341,201,0 113,98,200,189,0 227,203,324,287,0 62,236,153,337,0 11,313,66,416,0 7,180,85,271,0 333,153,396,269,0 375,179,416,316,0 307,245,355,356,0 336,261,390,363,0 283,331,382,413,0 145,283,194,409,0 112,286,160,411,0 178,257,260,389,0
+data/obj/40.d41586-019-02771-6_17176008.jpg1 145,71,318,312,2 63,217,275,351,1
+data/obj/40.queen-bee.jpg1 32,119,384,292,1
+data/obj/41.$_72.jpg1 90,59,347,306,1
+data/obj/42.Honeybees-building-combs.jpg1 27,92,242,274,0 207,140,416,349,0 1,246,212,394,0
+data/obj/43.Markierte-Bienenk_C3_B6nigin-1-398x410.jpg1 167,147,285,305,1
+data/obj/43.queen-bee.jpg1 40,59,385,384,0
+data/obj/44.Besserer-Imkerhonig-11-300x300.jpg1 149,196,223,258,1
+data/obj/45.IMG_0536sm.jpg1 145,88,343,375,1 42,288,191,416,0 1,212,117,399,0 1,23,132,180,0 308,1,410,165,0 203,1,263,108,0
+data/obj/48.OSBeehives-Blog-QueenBee_1024x1024.jpg1 77,23,286,397,1
+data/obj/49.5423771-SMPT-58b8e27a5f9b58af5c909f7a.jpg1 153,110,347,322,1 1,260,166,375,0 18,170,164,276,0 19,90,173,201,0 75,16,206,157,0 155,1,316,93,0 300,1,399,122,0 300,198,392,397,0 5,1,76,104,0
+data/obj/5.Carnica-Bienenk_C3_B6nigin-gezeichnet-markiert.jpg1 71,112,321,279,1 36,1,216,121,0 3,120,100,271,0 10,239,152,380,0 85,295,278,393,0 264,245,416,384,0 310,1,407,128,0 241,1,301,99,0 296,137,416,259,0 316,75,416,167,0 89,257,240,404,0
+data/obj/5.queen-1.jpg1 126,156,269,280,1 52,131,140,224,0 2,79,94,148,0 37,23,138,123,0 225,1,309,97,0 298,1,400,59,0 368,11,416,98,0 286,49,382,145,0 324,140,408,236,0 242,180,359,234,0 240,225,348,289,0 262,276,346,384,0 226,277,286,387,0 122,251,203,345,0 29,249,113,317,0 1,127,60,216,0 140,291,233,372,0 338,280,416,368,0 15,336,73,415,0 80,291,135,389,0 164,331,243,400,0
+data/obj/5.queen-bees-mated-1_1024x1024.jpg1 154,40,285,315,1 1,97,148,237,0 190,208,369,380,0 268,66,416,178,0 370,178,416,362,0
+data/obj/51.Umweiseln-0227-300x225.jpg1 96,68,372,322,1
+data/obj/52.Koenigin_12_0.jpg1 142,27,304,245,1 51,1,165,148,0 2,61,144,209,0 225,183,377,332,0 295,4,412,122,0 199,264,291,416,0 115,241,204,416,0 1,219,152,367,0
+data/obj/52.Queen-Bee-e1564621122331.jpg1 20,51,410,362,1 292,101,416,241,0 196,1,371,134,0
+data/obj/53.bienenkoenigin.jpg1 202,41,387,260,1
+data/obj/56.bienenkoenigin-bienenvolk-imker100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg1 72,120,303,326,1 1,1,121,179,0 211,204,393,380,0 291,4,416,126,0 317,99,416,210,0 185,1,278,117,0 1,126,63,253,0 39,330,141,416,0
+data/obj/56.queen-bee-beekeeping.jpg1 1,43,395,366,1
+data/obj/57.geburt-einer-bienenkoenigin-7b6119a0-bc75-4fda-bb04-47eff79ff3c1.jpg1 173,229,242,289,0 23,160,90,209,0 24,94,72,160,0 65,61,120,113,0 79,95,131,161,0 47,19,96,97,0 6,35,66,95,0 5,5,56,45,0 99,17,145,81,0 138,35,180,111,0 178,41,236,91,0 236,27,277,96,0 267,43,316,96,0 284,82,342,141,0 233,78,301,129,0 219,113,242,187,0 201,162,239,230,0 297,131,351,221,2 325,178,365,256,0 292,340,337,416,0 324,342,375,409,0 341,291,402,351,0 282,273,354,337,0 207,286,269,341,0 226,235,292,286,0 269,178,312,248,0 256,129,315,188,0 361,25,408,85,0 331,114,378,167,0 299,1,358,61,0 172,3,241,40,2 179,72,237,122,0 161,149,196,220,0 1,235,40,281,0 81,95,126,160,0 373,233,416,287,0 360,174,387,262,0 377,175,409,249,0 332,113,377,166,0 373,87,416,130,0
+data/obj/58.P1010195_bearb_klein.jpg1 168,161,295,252,1 192,80,253,181,0 119,90,208,154,0 89,57,119,152,0 12,76,91,135,0 30,143,102,233,0 80,253,156,349,0 175,248,232,364,0 150,291,222,390,0 225,271,284,381,0 272,313,360,380,0 298,207,351,318,0 248,213,313,304,0 280,116,353,179,0 332,14,407,86,0 309,55,374,133,0 299,139,379,213,0 3,340,58,416,0 1,273,66,328,0 56,1,117,60,0 116,1,152,58,0 152,374,241,416,0 342,306,412,386,0 374,212,416,272,0 381,100,416,191,0 185,9,267,76,0 194,58,275,130,0
+data/obj/59.697301962__281_29.jpg1 141,190,197,263,1 182,141,210,191,0 98,96,133,144,0 56,55,103,93,0 125,70,166,108,0 85,371,122,414,0 181,361,213,405,0 253,355,295,415,0 328,377,382,416,0 331,339,391,389,0 303,337,331,398,0 281,323,308,372,0 297,296,342,346,0 254,304,283,359,0 198,331,240,389,0 201,303,251,348,0 7,335,50,370,0 10,274,42,330,0 1,249,49,279,0 59,180,110,223,0 115,273,156,329,0 173,267,208,315,0 154,296,182,342,0 153,333,209,369,0 136,371,179,403,0 137,346,183,385,0 107,327,152,372,0 114,273,158,329,0 75,259,121,288,0 123,249,177,283,0 238,179,293,216,0 325,102,365,165,0 303,73,358,118,0 332,20,375,62,0 372,12,416,47,0 362,58,403,84,0 358,98,401,140,0 362,153,399,188,0 312,202,352,254,0 348,195,389,247,0 378,191,410,242,0 343,253,391,309,0 335,307,366,345,0 361,308,410,354,0 383,346,416,397,0 241,211,299,257,0 198,236,254,266,0 235,263,299,303,0 61,117,109,154,0 139,116,184,149,0 130,97,163,140,0 165,59,211,112,2 215,53,255,82,0 242,48,272,93,0 139,24,182,53,0 224,29,278,52,0 290,12,343,46,0 227,104,272,154,0 200,160,247,202,0 43,155,81,199,0 6,136,47,180,0 29,111,59,147,0 95,24,122,77,0 112,177,153,222,0 57,228,107,259,0 1,222,50,255,0 30,377,74,416,0 1,72,25,119,0 53,16,92,63,0 4,50,49,77,0 173,25,206,68,0 194,12,227,50,0
+data/obj/59.queen-bee-in-bee-hive-laying-eggs.jpg1 142,113,240,273,1 63,200,150,314,0 117,273,199,364,0 249,243,339,353,0 182,230,278,324,0 342,113,392,247,0 279,36,346,171,0 83,65,192,149,0 210,143,257,246,0
+data/obj/6.Apis_mellifera_scutellata_1355021.jpg1 119,103,299,279,1 2,1,169,105,0 1,85,97,161,0 12,119,126,199,0 1,181,137,284,0 1,237,159,363,0 64,265,206,395,0 198,261,286,382,0 263,285,360,409,0 296,197,416,290,0 279,153,416,226,0 269,86,416,151,0 315,114,416,171,0 274,1,379,88,0 326,6,416,74,0 181,1,266,134,0
+data/obj/6.bienenkonig_600x600.jpg1 63,142,361,280,1 236,79,416,218,0 65,1,196,149,0 164,1,322,121,0 73,248,198,416,0 162,249,385,397,0
+data/obj/61.OSBeehives-Blog-QueenBee_1024x1024.jpg1 91,21,280,382,1
+data/obj/62.71241314-die-bienenk_C3_B6nigin-von-den-bienen-umgeben-die-unterst_C3_BCtzung-und-futtermittel.jpg1 103,125,187,351,1 188,80,287,191,0 13,200,110,321,0 17,108,113,217,0 64,1,124,113,0 130,1,202,90,0 192,24,290,121,0 296,87,386,208,0 367,242,414,361,0 330,252,376,363,0 213,216,311,324,0 221,309,303,415,0 201,172,295,259,0 269,1,330,119,0 17,267,108,396,0 7,205,109,320,0
+data/obj/63.23188283_high.jpg1 131,119,235,338,1 210,182,304,306,0 240,249,335,364,0 296,161,385,295,0 297,54,376,187,0 347,21,416,109,0 93,5,143,162,0 10,78,125,165,0 1,98,52,222,0 38,225,140,282,0 3,265,110,332,0 28,331,131,394,0 282,290,397,380,0 135,323,205,396,0 220,12,285,163,0 142,2,210,73,0
+data/obj/64.queen-bee-in-bee-hive-laying-eggs.jpg1 144,108,232,269,1 60,193,156,309,0 82,65,186,149,0 274,33,343,174,0 339,109,392,246,0 250,247,341,351,0 115,271,196,363,0 188,237,272,316,0 211,143,258,252,0
+data/obj/65.queen_g.jpg1 6,4,186,156,1 148,5,288,136,0 125,233,279,343,0 47,169,122,359,0 279,138,382,289,0 257,327,393,416,0 98,320,222,416,0 167,309,275,416,0 159,105,288,222,0 206,155,295,291,0 317,87,415,238,0
+data/obj/66.IMG_0131-1024x683.jpg1 133,171,223,268,1 92,146,163,215,0 116,48,154,145,0 23,182,99,244,0 168,284,237,335,0 234,262,296,335,0 262,335,331,384,0 328,345,390,397,0 301,224,339,331,0 324,214,385,301,0 376,173,412,264,0 346,146,387,233,0 356,44,406,142,0 299,67,362,153,0 302,162,348,235,0 240,129,300,192,0 248,166,280,228,0 122,3,175,84,0 27,76,111,126,0 8,111,75,173,0 1,209,45,304,0 144,57,172,142,0 156,63,198,141,0 163,13,202,100,0 194,69,222,133,0 204,18,252,77,0 236,47,311,109,0 292,1,350,34,0 348,2,377,75,0 38,1,107,63,0 11,1,63,57,0 350,278,410,348,0
+data/obj/68.queen-bee-beekeeping.jpg1 1,46,398,354,1
+data/obj/7.queen-1.jpg1 127,162,272,281,1 52,133,145,227,0 36,26,154,119,0 225,1,306,98,0 291,51,376,153,0 297,1,400,56,0 372,13,416,103,0 358,94,416,155,0 324,140,409,239,0 244,179,354,239,0 242,224,345,292,0 342,282,416,365,0 260,278,336,388,0 225,277,290,385,0 119,258,205,344,0 28,248,118,314,0 1,121,51,210,0 4,74,92,146,0 1,206,75,261,0 140,289,235,374,0 159,326,245,407,0 82,291,139,396,0 18,330,68,416,0
+data/obj/70.09678850_high.jpg1 131,144,270,233,1 176,218,277,304,0 141,209,205,334,0 73,220,130,319,0 34,179,100,265,0 4,91,92,165,0 2,25,101,94,0 96,2,165,73,0 133,21,202,145,0 186,1,263,121,0 209,102,288,187,0 167,341,222,416,0 257,272,310,416,0 182,284,273,394,0 185,222,272,299,0 268,201,348,328,0 383,237,416,338,0 324,103,370,217,0 335,2,407,153,0 272,1,333,85,0 256,84,340,171,0
+data/obj/71.Bienendom-ShopWare-Buckfast-K-nigin2a0h5Pd3knp5T.jpg1 158,135,215,306,1 194,278,279,354,0 21,276,113,393,0 24,104,94,239,0 74,145,154,258,0 216,102,270,209,0 261,36,320,160,0 176,19,261,101,0 141,19,200,127,0 84,18,145,140,0 6,59,52,204,0
+data/obj/71.dscf0166a-524x394.jpg1 10,13,386,186,1 252,190,347,416,0 358,132,416,363,0 76,171,178,416,0 136,258,242,416,0
+data/obj/72.b66c6a11fc9951557cc083095a1db9c9.jpg1 29,36,122,387,1 144,49,251,300,0 272,37,402,343,2
+data/obj/73.5423771-SMPT-58b8e27a5f9b58af5c909f7a.jpg1 150,104,323,323,1 1,263,153,381,0 14,173,161,282,0 24,99,170,212,0 80,26,207,160,0 166,1,322,95,0 302,1,393,123,0 295,213,387,391,0
+data/obj/75.Bienen-K_C3_B6nigin-austauschen-4-1500x680.jpg1 1,7,35,76,0 37,30,78,72,0 46,60,85,122,0 68,16,109,59,0 106,20,134,95,0 135,17,168,83,0 111,88,132,160,2 43,115,77,196,0 83,138,132,181,0 313,257,352,324,0 332,328,369,401,0 259,322,289,404,0 230,348,257,416,0 189,339,219,411,0 209,263,238,347,0 243,253,265,331,0 260,199,290,283,0 287,178,321,250,0 307,119,346,179,0 82,264,132,321,0 50,278,92,359,0 1,335,34,415,0 21,212,46,301,0 11,292,47,357,0 60,209,84,290,0 110,204,156,252,0 83,171,121,249,0 2,84,29,161,0 159,23,198,72,0 186,42,211,115,0 189,19,224,87,0 206,7,244,41,0 235,12,268,80,0 248,40,273,120,0 269,52,297,121,0 294,26,319,92,0 308,5,332,83,0 326,209,357,278,0 382,354,416,415,0 377,313,416,380,0 359,248,391,327,0 309,116,348,176,0 359,29,397,91,0 388,106,411,178,0 238,152,257,217,0 234,122,287,198,1 205,150,237,206,0 151,224,193,260,0 191,215,226,267,0 160,112,216,154,0 114,336,149,416,0 83,352,120,416,0 345,134,381,189,0
+data/obj/77.83809479-queen-bee-is-always-surrounded-by-the-workers-bees-their-servant-.jpg1 163,75,255,283,1 11,210,172,296,0 26,297,115,416,0 131,275,228,413,0 219,271,375,416,0 242,210,406,329,0 254,109,416,216,0 268,1,362,125,0 44,1,171,166,0 1,40,122,197,0 136,1,216,88,0
+data/obj/78.buckfast-bienenkoenigin.jpg1 116,90,245,407,1 1,140,109,274,0 17,8,144,188,0 221,171,351,334,0 240,299,408,416,0 275,1,391,179,0 222,1,300,130,0 168,1,233,96,0 1,333,99,412,0 113,1,168,89,0
+data/obj/79.bees-1163028_1920.jpg1 9,119,381,269,1 28,284,317,397,0 23,249,254,402,0 1,231,104,355,0 2,1,201,112,0 247,1,366,104,0 288,239,416,330,0
+data/obj/8.101009459-queen-bee-lays-eggs-in-the-honeycomb-.jpg1 111,150,264,345,1 8,93,152,203,0 28,1,100,129,0 147,26,296,162,0 240,1,336,179,0 222,197,368,312,0 243,253,374,384,0 1,263,104,388,0 1,186,121,294,0 206,334,302,416,0
+data/obj/8.bienenko-nnigin_belegstellenbegattetDuvybQmRAc0Y7_600x600.jpg1 130,66,266,373,1 81,94,182,333,0 257,8,387,200,0 185,305,344,416,0 2,267,86,416,0 3,1,104,131,0 83,1,204,135,0
+data/obj/80.Bienenkoenigin_ml.jpg1 146,75,251,327,1 32,225,117,415,0 6,118,127,273,0 105,2,202,173,0 248,140,330,266,0 234,247,379,359,0 126,305,232,416,0 196,319,279,416,0 282,303,412,410,0 321,133,388,298,0 322,1,415,122,0 11,1,102,110,0 1,268,40,414,0
+data/obj/81.kisspng-western-honey-bee-queen-bee-beehive-drone-save-bees-how-you-can-help-save-our-bees-austra-5bd2801261ae67.6606297815405220024001.jpg1 113,26,321,389,1
+data/obj/84.Weiselzucht_Buckfast_640x480.jpg1 204,155,281,251,1 155,228,222,300,0 68,210,131,253,0 129,173,195,228,0 83,51,144,101,0 144,54,202,115,0 4,27,43,103,0 42,44,72,126,0 12,120,72,163,0 9,159,70,208,0 29,201,68,277,0 5,254,46,332,0 29,331,91,389,0 87,365,126,416,0 148,362,195,413,0 108,311,186,363,0 79,247,138,327,0 238,246,297,313,0 278,303,345,355,0 306,351,372,399,0 253,318,303,399,2 239,332,283,408,0 314,199,351,294,0 275,159,331,214,0 232,59,265,146,0 190,82,213,155,0 158,142,218,191,0 194,1,251,44,0 273,1,323,64,0 338,1,367,63,0 359,19,411,71,0 363,67,416,115,0 361,166,416,215,0 354,247,397,326,0
+data/obj/85.bienenk_C3_B6nigin-mutter-und-brummen-und-bienenarbeitskraft-drei-arten-biene-98524249.jpg1 10,122,162,260,1 168,113,286,266,2 298,148,406,263,0
+data/obj/86.beehive-3286974_1920_(1).jpg1 192,155,251,294,1 177,197,211,312,0 149,189,193,289,0 107,285,138,402,0 87,265,126,374,0 104,140,150,257,0 118,61,160,154,0 152,95,202,164,0 165,32,208,122,0 132,3,169,93,0 96,6,138,83,0 198,8,235,124,0 223,9,265,131,0 245,10,289,89,0 271,78,300,177,0 257,117,287,193,0 260,219,305,303,0 241,181,302,230,0 240,320,290,397,0 191,288,228,373,0 208,320,250,416,0 284,230,335,295,0
+data/obj/87.$_72.jpg1 116,198,299,270,1 89,136,177,232,0 184,74,268,176,0 102,76,209,146,0 3,51,82,169,0 1,178,73,233,0 17,212,109,305,0 63,220,143,329,0 40,366,140,413,0 86,308,162,360,0 102,340,180,393,0 150,256,208,319,0 275,272,323,370,0 255,242,374,288,0 283,171,392,226,0 274,59,332,184,0 324,67,385,179,0 360,64,416,148,0 383,155,416,255,0 319,271,402,348,0 166,309,267,378,0 99,1,192,66,0
+data/obj/87.queen-bee-in-bee-hive-laying-eggs.jpg1 124,136,266,221,1 215,103,297,186,0 128,28,193,144,0 88,19,167,79,0 175,20,258,123,0 17,39,86,95,0 14,101,84,167,0 21,158,87,241,0 64,198,123,288,0 166,309,224,374,0 184,267,270,359,0 172,211,276,274,0 251,248,307,368,0 277,187,361,305,0 330,99,386,213,0 259,87,341,177,0 347,20,394,142,0 289,19,333,97,0
+data/obj/89.633.jpg1 127,101,227,329,1 22,35,106,182,0 82,42,180,141,0 200,1,274,141,0 300,114,407,206,0 209,172,322,259,0 291,214,364,372,0 150,234,254,364,0 37,226,127,298,0 129,364,216,416,0 331,259,386,410,0 352,173,407,295,0 9,347,100,416,0
+data/obj/9.buckfast-bienenkoenigin-f1.jpg1 1,180,105,233,0 24,109,112,190,0 115,109,190,253,1 57,48,110,137,0 171,58,240,155,0 236,78,333,168,0 190,1,244,95,0 84,1,183,78,0 317,56,416,132,0 53,304,170,395,0 202,230,252,331,0 238,174,332,284,0 273,152,359,245,0 348,170,416,253,0 212,286,311,375,0 232,346,325,405,0 121,329,200,416,0
+data/obj/9.queen-bees-mated-1_1024x1024.jpg1 138,45,280,322,1 1,100,150,227,0 193,209,365,365,0 269,69,416,173,0 376,176,416,352,0 279,343,416,416,0 42,1,145,97,0
+data/obj/90.IMG_3299-1.jpg1 59,137,291,268,1 166,277,320,373,0 308,48,413,207,0 235,1,364,74,0 78,1,205,128,0
+data/obj/91.maxresdefault.jpg1 194,166,272,263,2
+data/obj/92.img_155631-1_high.jpg1 96,55,313,257,1
+data/obj/93.K_C3_B6niginnen-werden-mit-Gelee-Royale-gef_C3_BCttert-Propolis-Honig.de_.jpg1 163,167,249,324,1 3,155,100,247,0 195,73,267,178,0 328,94,405,180,0 247,221,356,271,0 238,264,337,322,0 333,258,396,357,0 276,315,377,377,0 231,335,327,416,0 173,325,227,416,0 127,322,177,415,0 69,344,128,412,0 22,310,119,391,0 36,258,153,317,0 38,215,153,267,0 354,236,416,296,0
+data/obj/94.2a8bb5f77774dae88a76526de2c12808.jpg1 84,109,278,387,1
+data/obj/96.C53Y39-6.jpg1 145,192,378,360,1 214,1,317,208,0 152,1,222,129,0 22,10,195,209,0 3,176,163,283,0 3,242,145,416,0 339,117,416,250,0 287,1,370,219,0 279,245,408,416,0 185,249,305,416,0
+data/obj/97.bienenk_C3_B6nigin-840x480.jpg1 133,157,200,267,1 95,152,144,222,0 194,89,247,163,0 237,75,280,166,0 288,93,325,192,0 250,126,292,224,0 50,17,114,76,0 24,58,48,143,0 54,64,92,162,0 85,53,119,152,0 143,319,191,406,0 260,294,330,336,0 347,311,406,370,0 351,222,406,299,0 385,265,416,318,0 292,361,337,416,0 237,337,302,382,0 183,325,232,402,0 187,292,245,338,0 135,262,203,309,0 191,219,223,316,0 214,189,247,300,0 242,219,296,294,0 25,261,77,329,0 102,370,162,416,0 146,315,185,400,0 102,289,158,349,0 140,259,202,305,0 92,269,122,372,0 348,58,394,143,0 368,148,394,239,0 392,136,416,216,0 391,22,416,118,0 348,1,382,62,0 314,121,379,160,0 316,166,372,240,0 116,70,152,155,0 161,56,207,134,0 210,17,252,101,0 151,4,189,77,0 124,6,161,107,0 24,1,56,63,0
+data/obj/98.~eine-bienenk_C3_B6nigin-in-der-mitte_26884702_high.jpg1 162,181,247,238,1 267,195,327,250,0 239,226,291,297,0 55,46,115,103,0 3,18,52,65,0 1,54,45,125,0 60,15,121,66,1 131,38,178,121,1 112,92,163,167,1 84,128,142,186,1 159,1,192,68,1 121,1,149,52,1 188,1,217,50,1 13,141,64,210,1 16,196,52,272,1 52,250,82,332,1 79,355,112,395,1 132,350,179,399,1 238,350,296,398,1 232,124,272,207,1 172,85,206,171,1 202,78,231,160,1 202,45,248,112,1 224,16,263,93,1 253,20,292,103,1 270,1,328,25,1 362,18,398,94,1 391,23,416,94,1 286,35,322,111,1 335,73,386,136,1 340,220,380,303,1 271,320,335,374,1 232,269,277,351,1 208,316,238,395,1 145,282,199,339,1 82,305,141,348,1 136,234,182,295,1 123,180,168,247,1 75,179,129,237,1 265,139,321,203,1 304,112,363,175,0 351,169,405,220,0 309,225,355,293,0 30,56,64,136,0 1,57,39,126,0
+data/obj/99.Bienenk_C3_B6nigin-auf-Wabe.jpg1 126,141,289,281,1 53,314,127,415,0 21,159,115,299,0 2,63,107,201,0 128,340,175,416,0 160,326,230,416,0 244,321,300,415,0 349,327,415,416,0 117,1,190,169,0 236,39,342,136,0 305,144,397,239,0 273,90,366,215,0 331,1,377,79,0 231,1,313,65,0 312,245,373,345,0 227,234,340,335,0 279,316,370,416,0 353,216,416,343,0 336,82,416,164,0
+data/obj/1.cs_0726_NF_Bees_miteonbee_1280x720 - Kopie.jpg1 128,105,165,168,3 43,12,348,389,0
+data/obj/1.cs_0726_NF_Bees_miteonbee_1280x720.jpg1 129,102,162,164,3 47,9,347,411,0
+data/obj/1.Varroamilbe.jpg1 43,100,181,337,3 227,70,388,328,3
+data/obj/10.DSC01141-001.jpg1 144,212,180,259,3 76,69,335,380,0 51,1,219,233,0
+data/obj/10.varroamitesb.jpg1 135,249,168,283,0 87,83,257,368,0 234,50,416,289,0 273,284,413,416,0
+data/obj/11.220px-Varroa_destructor_bee.jpg1 76,121,271,323,0 130,195,164,222,3
+data/obj/12.Honigbiene.jpg1 116,221,166,289,3 1,11,385,414,0
+data/obj/12.Varroa-mite-UF.jpg1 152,161,192,219,3 69,70,357,342,0
+data/obj/13.maxresdefault.jpg1 245,74,278,120,3 218,46,242,73,3 96,61,343,352,0
+data/obj/13.Varroa-Varroamilbe-Bienenlarve.jpg1 211,129,236,155,3 180,324,207,353,3
+data/obj/14.220px-Drohnenpuppen_mit_Varroamilben_71a.jpg1 163,223,181,247,3 137,223,154,245,3 305,176,322,204,3
+data/obj/15.r0_0_1772_1158_w1200_h678_fmax.jpg1 77,145,308,345,0
+data/obj/15.Varroa-mite-33.jpg1 254,22,405,291,2 83,112,261,341,2 6,239,154,416,2 259,164,296,206,3 296,211,345,259,3
+data/obj/16.cs_0726_NF_Bees_brokenwings_700px.jpg1 8,56,382,374,0
+data/obj/16.Varroa-mite-33.jpg1 294,213,342,252,3 267,162,298,206,3 246,18,412,286,2 92,103,256,316,2 4,249,149,416,2
+data/obj/17.cs_0726_NF_Bees_brokenwings_700px.jpg1 20,45,403,374,0
+data/obj/17.image-361156-860_panofree-wjji-361156.jpg1 186,14,253,79,3 1,5,390,384,0
+data/obj/17.varroa-destructor-mites.jpg1 238,67,392,343,3 27,106,171,352,3
+data/obj/18.8856545015_ee85f344b5_b.jpg1 200,174,224,200,3 222,216,246,252,3 149,90,329,325,0 1,305,147,416,0
+data/obj/18.Tote-Bienen-mit-Milben.jpg1 132,264,206,329,0 122,141,188,259,0 26,5,112,72,0 226,7,285,83,0 286,50,349,143,0 358,32,416,117,0 57,80,118,159,0 166,304,180,319,3 172,285,182,298,3 154,272,170,286,3 26,325,37,340,3
+data/obj/18.varroa-destructor-mites.jpg1 25,95,178,350,3 235,71,395,338,3
+data/obj/19.8856545015_ee85f344b5_b.jpg1 195,172,222,201,3 222,214,249,255,3 147,96,324,320,0 2,311,160,416,0
+data/obj/19.Queenbee_with_Varroa_Mite_2010.jpg1 58,112,393,287,1 102,168,130,193,3 1,278,209,411,0 321,311,413,416,0 198,305,325,416,0 1,32,126,146,0 99,1,229,103,0
+data/obj/2.urn-newsml-dpa-com-20090101-190120-99-639527-large-4-3-jpg.jpg1 238,205,288,251,3 302,143,340,179,3
+data/obj/2.Varroa-Mite-on-Bee-Featured-Image.jpg1 237,59,263,101,3 194,14,322,391,0 6,167,80,366,0 18,1,118,159,0 268,1,400,149,0 339,256,416,412,0
+data/obj/20.biene-varroa-milbe.jpg1 203,192,247,245,3 76,22,359,396,0
+data/obj/20.Queenbee_with_Varroa_Mite_2010.jpg1 105,165,133,195,3 67,125,389,290,1 1,283,191,403,0 1,33,115,151,0 96,1,233,97,0 327,302,412,416,0 197,296,326,416,0
+data/obj/21.DDP_15407sm.jpg1 162,181,211,251,3 1,1,310,364,0
+data/obj/21.NZ%20varroa%20on%20bee%2012%20Mar%202007%20Dr%20Rob%20Manning%20photo.jpg1 199,204,232,243,3 128,158,309,288,0
+data/obj/21.NZ_20varroa_20on_20bee_2012_20Mar_202007_20Dr_20Rob_20Manning_20photo.jpg1 201,206,232,246,3 124,164,316,291,0
+data/obj/22.varroa-biology-f2.jpg1 91,71,363,366,1
+data/obj/22.varroa-mites-on-bees.jpg1 255,229,276,251,3 42,47,167,177,0 216,336,313,416,0 332,249,416,333,0 229,150,320,304,0 315,127,414,259,0 293,52,416,128,0 1,236,74,362,0 1,82,84,280,0 112,1,238,87,0
+data/obj/22.varroamilben-setzen-sich-in-die-brutwaben-bevor-d-sven-christian-schulz-utopia-190815_download.jpg1 155,184,234,244,0 9,163,79,268,0 68,100,129,164,0 113,126,172,199,0 189,66,275,138,0 272,108,328,217,0 302,343,358,416,0 340,67,416,134,0 36,8,106,57,0 66,58,165,109,0 339,146,413,254,0 352,281,400,376,0 191,346,268,416,0 127,331,190,415,0 236,1,280,58,0
+data/obj/23.62719.jpg1 114,83,334,269,2 235,116,259,145,3
+data/obj/23.varroa-mites-on-bees.jpg1 44,49,165,178,0 1,79,78,274,0 1,238,81,352,0 234,149,323,299,0 258,231,274,254,3 220,339,319,416,0 328,248,416,329,0 317,121,416,259,0 292,52,416,130,0 111,1,235,82,0
+data/obj/24.62719.jpg1 111,75,337,291,2 242,115,259,144,3
+data/obj/25.honeybee-mite2.jpg1 158,51,201,107,3 84,32,382,386,0
+data/obj/25.varroamilbe_im_bienenstock.6e70621835b0ae3a03ab459391516ab9.jpg1 132,116,168,149,3 232,150,268,210,3 269,110,305,157,3 340,221,374,265,3 317,283,348,309,3 357,153,385,196,3
+data/obj/26.af6db70325a33cfaa0a143d7799e7123.jpg1 14,45,399,328,0
+data/obj/26.bild-104738-resimage_v-variantBig24x9_w-1024.jpg1 93,134,178,283,3
+data/obj/26.mite460.jpg1 239,190,266,222,3 145,1,320,163,0
+data/obj/27.af6db70325a33cfaa0a143d7799e7123.jpg1 10,40,400,329,0
+data/obj/27.b1.jpg1 188,91,242,163,3 210,214,244,275,3 232,43,278,101,3
+data/obj/27.mite460.jpg1 241,192,276,227,3 144,1,327,164,0
+data/obj/28.bee-85576_1920-1200x640.jpg1 185,55,241,115,3 11,17,367,387,0
+data/obj/28.Titelbild_Varroa-Milbe_UHOH-Bettina-Ziegelmann.jpg1 138,122,167,160,3 125,179,163,221,3 166,184,189,214,3 138,93,169,121,3 19,92,333,319,0
+data/obj/29.23-93237846-23-93237848-1510503796.jpg1 75,58,345,365,0
+data/obj/29.varroa-mite-1280x720.jpg1 53,8,132,125,3 337,50,409,153,3 181,303,278,405,3 161,150,241,279,3 151,28,232,152,3 235,137,298,270,3 295,136,369,247,3
+data/obj/3.Milbe-im-Bienenstock.jpg1 342,49,390,209,0 289,57,335,213,0 236,32,297,199,0 202,204,215,219,3 15,18,64,178,0 50,5,120,147,0 65,38,139,199,0 116,70,182,206,0 154,4,200,170,0 204,1,244,149,0
+data/obj/3.Varroa_Mite.jpg1 51,78,358,343,3
+data/obj/30.maxresdefault.jpg1 249,73,277,115,3 219,48,243,71,3 97,61,340,359,0
+data/obj/30.Varroa-mite-41.jpg1 188,200,346,308,0 30,119,193,255,0 183,339,304,416,0 244,171,265,191,3 226,176,243,191,3
+data/obj/31.mite-labeled.jpg1 269,78,378,183,0 111,105,207,211,0 1,149,92,263,0 56,275,126,377,0 162,252,246,363,0 251,230,333,332,0 176,305,193,316,3 122,159,142,177,3 323,281,416,346,0 77,1,152,58,0
+data/obj/32.Varroa-mite-41.jpg1 188,199,347,300,0 37,120,187,252,0 180,339,293,416,0 245,169,266,189,3 227,176,243,193,3
+data/obj/33.mite-labeled.jpg1 107,93,211,208,0 1,153,103,266,0 69,1,150,58,0 269,78,374,183,0 160,248,248,362,0 244,230,329,332,0 52,274,136,373,0 124,161,141,172,3 175,303,190,314,3 321,280,415,340,0 370,9,416,82,0 317,377,416,415,0
+data/obj/33.mites-on-brood.jpg1 10,60,138,162,0 62,89,81,108,3 1,4,83,76,0 214,34,297,173,0 315,109,416,249,0 368,169,390,190,3 287,43,411,103,0 152,10,262,100,0 1,207,58,342,0
+data/obj/34.11-08-24_194446sm.jpg1 163,287,245,361,3
+data/obj/34.6nwp4rcb-1400116742.jpg1 114,83,304,295,0
+data/obj/35.6nwp4rcb-1400116742.jpg1 116,85,300,297,0
+data/obj/36.varroar_20170611_1859195468.jpg1 176,262,193,277,3 136,272,147,289,3 138,318,155,340,3 158,165,174,181,3
+data/obj/37.Varroa-mite-blood-sucking-006.jpg1 105,151,183,289,3 1,7,413,416,0
+data/obj/38.mites-on-brood.jpg1 11,68,158,172,0 220,16,275,194,0 310,108,416,243,0 290,45,409,111,0 1,1,106,78,0 146,19,263,93,0
+data/obj/38.varroamilbe-bienensterben.jpg1 73,102,301,355,0
+data/obj/39.0905f7f377dd17151a33c9576d8c656ev1_max_470x353_b3535db83dc50e27c1bb1392364c95a2.jpg1 15,55,146,289,0 142,82,284,333,0 260,119,393,378,0 229,27,354,215,0
+data/obj/4.bee-85576_1280_0.jpg1 192,84,241,134,3 4,59,351,361,0
+data/obj/40.11516024-3x2-700x467.jpg1 53,70,254,329,0
+data/obj/41.pests_beesandwasps_varroamites-768x512.jpg1 249,220,379,416,3 21,238,190,416,3 58,1,176,219,3 213,1,384,174,3
+data/obj/41.Varroa-mite-blood-sucking-006.jpg1 97,150,186,281,3 1,1,410,416,0
+data/obj/41.Varroamilben.jpg1 226,168,245,192,3 236,325,254,349,3 271,193,372,310,0 287,285,348,416,0 135,222,220,363,0 69,250,133,411,0 49,93,131,311,0 114,61,191,271,0 181,14,278,129,0 260,1,316,173,0 317,1,364,94,0 99,1,187,82,0 133,341,216,416,0 218,282,273,416,0
+data/obj/42.bee-85576_1920-1200x640.jpg1 188,56,238,112,3 6,11,328,388,0
+data/obj/43.varroamilbe.jpg1 52,49,324,290,0 212,176,255,233,3
+data/obj/44.11516024-3x2-700x467.jpg1 66,74,259,317,0
+data/obj/44.antidepressivumgegenvarroamilbe2body.5754851.jpg1 104,60,270,353,0 198,247,234,289,3 228,281,279,318,3
+data/obj/44.huang-varroa-mites-3.jpg1 207,203,224,229,3 248,206,265,229,3
+data/obj/45.varroa-mites.jpg1 151,102,238,307,0
+data/obj/46.female-varroa-mite.jpg1 88,81,345,349,3
+data/obj/46.huang-varroa-mites-3.jpg1 205,203,226,228,3 246,206,267,229,3
+data/obj/47.bienensterben-varroamilbe-bild-640x381.jpg1 200,179,342,363,0
+data/obj/47.varroa_mite07.jpg1 207,56,382,359,0
+data/obj/48.DSC_0437-2.jpg1 105,186,134,221,3 64,145,312,367,0 267,13,410,206,0 69,57,217,196,0 1,111,90,342,0 315,202,416,354,0
+data/obj/48.varroa-mites.jpg1 140,99,226,315,0
+data/obj/49.female-varroa-mite.jpg1 85,78,343,356,3
+data/obj/49.insecticidei.jpg1 45,63,242,256,0 109,106,140,137,3 54,210,271,416,0 205,267,228,301,3 176,267,357,416,0 224,24,378,298,0 278,1,416,248,0 19,1,137,108,0 7,56,92,225,0
+data/obj/49.Varroa1.jpg1 214,264,267,320,3 34,122,318,404,0 152,1,316,233,0 216,52,253,103,3
+data/obj/5.biene-honigbiene-varroa-milbe-parasiten-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg1 43,78,401,371,0 268,249,320,309,3
+data/obj/50.honeybee-mite2.jpg1 147,43,214,109,3 73,22,416,397,0
+data/obj/50.st_154526_sm.jpg1 42,26,328,401,3
+data/obj/51.DSC_0437-2.jpg1 105,187,131,218,3 54,136,323,370,0 258,8,416,212,0 69,57,212,198,0 1,135,95,344,0
+data/obj/51.varroamilbe.jpg1 139,186,168,242,3 82,86,363,309,0
+data/obj/52.bienen-bienenstock-bienensterben-varroa-bienenbrut-waben-eier-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg1 16,187,142,319,0 312,141,416,341,0 158,1,334,120,0
+data/obj/52.mites-on-larva-791x382.jpg1 269,269,354,369,0 193,100,205,115,3 176,97,189,113,3 198,60,207,79,3
+data/obj/53.mites-on-larva-791x382.jpg1 175,97,190,116,3 196,100,205,118,3 197,59,207,80,3 271,263,352,372,0
+data/obj/54.Bee-colony-infested-with-Varroa-Honey-Bee-Mites-Varroa-destructor-syn-Jaco-2.jpg1 174,165,211,201,3 133,112,384,353,0
+data/obj/55.Bee-colony-infested-with-Varroa-Honey-Bee-Mites-Varroa-destructor-syn-Jaco-2.jpg1 168,165,217,203,3 133,116,391,365,0
+data/obj/55.beekeeping.jpg1 118,212,206,320,0 18,186,136,299,0 1,150,94,252,0 149,19,208,134,0 44,51,119,157,0 65,342,82,362,3 142,174,159,192,3 311,139,332,155,3 269,92,288,111,3 194,170,212,190,3 206,153,227,170,3 285,194,300,216,3 266,186,280,203,3 304,221,317,240,3 350,260,369,279,3 314,343,332,360,3 206,343,224,358,3 193,377,211,394,3 116,49,130,69,3 349,109,369,130,3 367,140,386,160,3 389,189,406,210,3 351,169,369,187,3 194,336,212,355,3
+data/obj/56.insecticidei.jpg1 116,105,145,138,3 208,266,232,306,3 44,65,245,265,0 51,222,258,416,0 167,270,337,416,0 224,13,377,292,0 290,1,409,248,0
+data/obj/57.collage_biene_milbe.jpg1 166,88,260,228,0 262,81,372,196,0 229,262,291,358,3 325,251,382,349,3
+data/obj/58.01-35361-varroa.jpg1 175,109,196,137,3 153,67,241,333,0 35,44,139,265,0 322,134,397,318,0 124,1,237,81,0
+data/obj/59.c3f5f0ae25a4140917c72bee716f11fav1_max_755x566_b3535db83dc50e27c1bb1392364c95a2.jpg1 208,254,248,303,3
+data/obj/6.varoamilben-kombo-DW-Wissenschaft-jpg.jpg1 1,96,150,311,3 350,249,400,308,3 212,9,416,415,0
+data/obj/6.varroa_miteiqm91fo6w0h0both.jpg1 45,221,77,272,3 21,68,193,362,0
+data/obj/61.urn-newsml-dpa-com-20090101-150919-99-01610-large-4-3.jpg1 46,80,318,409,0
+data/obj/61.varroamite.jpg1 202,155,233,204,3 62,97,303,332,0
+data/obj/63.varroa-mites-on-larva.jpg1 170,144,190,167,3 190,163,207,191,3 220,188,237,211,3 239,192,259,215,3 203,203,219,225,3
+data/obj/64.806091379-varroamilbe-westliche-honigbiene-imkerei-parasit.jpg1 77,51,402,349,0
+data/obj/65.varroamite.jpg1 206,160,230,201,3 79,97,290,328,0
+data/obj/66.Sonne-lockt-die-Bienen_1547976083544387_v0_h.jpg1 196,109,349,343,0 31,143,170,377,0
+data/obj/66.Varroa-mite-32.jpg1 89,145,193,239,3 314,181,383,286,3 27,1,416,405,0
+data/obj/66.varroa-mites-on-larva.jpg1 171,143,188,166,3 190,165,205,189,3 220,190,236,209,3 240,193,257,217,3 204,204,221,227,3
+data/obj/68.maxresdefault.jpg1 106,179,200,328,3 222,166,312,319,3
+data/obj/69.Biosecurity_Varroa1_GCI.jpg1 163,125,205,167,3 140,36,278,397,0
+data/obj/69.image.jpg1 261,115,353,213,3
+data/obj/7.maxresdefault.jpg1 213,223,264,288,3 40,46,378,369,0
+data/obj/7.Varroa-mite-2.jpg1 229,126,268,169,3 52,60,326,316,0
+data/obj/71.68747266_214503236197130_4447091157671501363_n.jpg1 191,119,209,139,3 139,198,246,393,0
+data/obj/71.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg1 140,124,165,160,3 144,188,170,213,3 176,167,201,199,3 64,94,286,246,0
+data/obj/72.Biosecurity_Varroa1_GCI.jpg1 163,127,206,164,3 143,31,278,395,0
+data/obj/74.CAP_ABJ_2012-1-Aronstein_0_1.jpg1 4,96,83,347,0 84,197,163,416,0 182,213,297,416,0 274,185,395,414,0 259,31,356,299,0 221,1,278,215,0 109,2,212,229,0
+data/obj/74.DSC_2954-Kopie-1024x685.jpg1 133,296,199,352,0 22,316,72,412,0 62,203,113,292,0 13,202,73,253,0 1,228,44,290,0 110,145,148,218,0 268,72,307,180,0 328,106,387,167,0 294,161,342,206,0 189,187,227,280,0 155,197,193,289,0 228,226,297,293,0 355,286,407,386,0 351,230,402,311,0 312,205,369,264,0 324,19,389,94,0 176,1,257,34,0 384,21,416,95,0
+data/obj/75.CAP_ABJ_2012-1-Aronstein_0_1.jpg1 107,1,211,232,0 1,98,84,363,0 85,196,169,416,0 181,207,300,416,0 287,182,395,416,0 257,32,366,302,0 212,1,287,219,0
+data/obj/76.1568881195-GettyImages-98158696-e1568881215152-960x540.jpg1 159,187,248,266,0 137,76,223,146,0 309,306,402,397,0 129,387,217,416,0 86,311,160,412,0 12,374,83,416,0 14,235,58,367,0 47,238,94,360,0 4,165,97,227,0 71,183,150,263,0 99,131,188,196,0 48,102,99,180,0 5,40,63,145,0 56,43,137,110,0 116,1,163,79,0 146,1,208,77,0 208,1,289,49,0 256,1,325,109,0 300,53,332,188,0 354,36,416,150,0 334,7,401,116,0
+data/obj/76.Huang-Fig-3-2.jpg1 200,116,306,221,3
+data/obj/76.IMG_14983_ausschnitt_sm.jpg1 165,191,187,223,3 214,204,241,237,3 144,31,276,389,0 241,1,378,223,0 89,1,169,213,0 255,222,388,416,0 11,231,162,416,0
+data/obj/77.288822229-varroamilbe-westliche-honigbiene-imkerei-parasit.jpg1 129,19,217,258,0 325,154,416,287,0 123,258,282,375,0 10,141,137,342,0
+data/obj/78.anotherspeci.jpg1 250,214,273,245,3 236,159,263,184,3 190,72,296,363,0 39,314,140,416,0 120,114,240,242,0 246,1,374,176,0
+data/obj/79.1755_2872_1_g.jpg1 172,129,310,328,0
+data/obj/8.Varroa-mite-2 - Kopie.jpg1 232,129,268,171,3 55,61,342,299,0
+data/obj/8.Varroa-mite-2.jpg1 234,127,269,174,3 59,78,340,327,0
+data/obj/80.honey-pattern-pollen-golden-insect-fauna-964037-pxhere.com_.jpg1 84,43,168,159,0 171,81,249,221,0 144,247,205,396,0 263,303,372,403,0 352,131,416,267,0
+data/obj/80.varroa-mite-varroa-destructor-or-jacobsoni-a-parasite-on-a-bee-brood-comb-with-larvae-of-drone-bees-apis-mellifera-X993G4.jpg1 200,176,246,213,3
+data/obj/80.Varroa_Mite_592hruvwu8nw0h0both.jpg1 62,73,336,376,3
+data/obj/81.DSC_2644-001.jpg1 6,135,55,200,3 97,22,180,72,3 322,61,394,128,3 120,173,183,226,3 172,194,247,239,3 326,197,388,253,3 69,343,140,406,3 219,301,295,359,3 347,272,414,322,3
+data/obj/81.varroa_mite_1.jpg1 130,179,166,220,3
+data/obj/82.varroa-biology-f1.jpg1 120,168,281,347,3
+data/obj/84.bg-bee_hive_varroa_mite-001-Igor-Chus.jpg1 181,192,207,214,3 315,2,414,169,0 228,1,300,111,0 125,1,203,142,0 20,1,80,95,0 74,1,132,67,0
+data/obj/85.image.jpg1 34,172,136,382,0
+data/obj/86.500_F_109984395_e3bpxFueYVjbAa8ebFiWtjV5Vnsj4hQZ.jpg1 251,109,329,213,3
+data/obj/87.BA31EA3C-AA14-4D70-AD5F-47406686854E_v0_l.jpg1 52,143,147,355,0
+data/obj/87.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg1 57,79,296,261,0 140,125,166,162,3 177,166,204,209,3 145,187,170,219,3
+data/obj/88.Honeybee-inflicted-with-varroa-mite-a-parasite-North-Carolina.jpg1 163,125,191,167,3 36,219,382,392,0
+data/obj/9.varroamilbe-varroa-destructor-wabe-bienenstock.jpg1 98,77,190,202,3
+data/obj/9.varroa_miteiqm91fo6w0h0both.jpg1 100,214,136,269,3 56,55,353,362,0
+data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg1 62,75,380,316,1
+data/obj/90.Varroa.jpg1 258,109,280,127,3 305,19,381,169,0 251,1,331,73,0 169,15,233,154,0 117,116,190,262,0 251,255,342,379,0 276,289,294,306,3 143,316,158,338,3 85,297,170,402,0 129,237,213,343,0 118,344,223,412,0 165,359,180,376,3 375,299,388,316,3 347,221,410,379,0 2,277,118,342,0 14,330,93,416,0 155,146,258,225,0 206,161,218,179,3 42,10,176,76,0 42,62,153,148,0 61,158,148,271,0 11,137,133,202,0
+data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg1 245,110,341,265,0
+data/obj/95.34850.jpg1 56,229,86,259,0 47,92,180,352,0
+data/obj/96.Honey_bee_and_mite.jpg1 242,161,284,205,3 69,60,346,360,0
+data/obj/1.drohne-maennliche-biene.jpg1 24,81,404,331,2
+data/obj/1.Drone_bee__2832-image_macro_stack_29.jpg1 86,49,360,347,2
+data/obj/10.220px-Drohn_im_Flug_08-3.jpg1 41,75,330,384,2
+data/obj/10.biene-drohne-400-93544874.jpg1 30,73,378,364,2
+data/obj/10.honey-bee-drone-aw.jpg1 10,21,407,368,2
+data/obj/11.canstockphoto16388515.jpg1 30,61,375,358,2
+data/obj/11.drohnenabtrieb_2.jpg1 200,155,347,286,2 201,93,310,184,0
+data/obj/11.drone-600-px.jpg1 74,45,286,388,2
+data/obj/12.Apis_mellifera_Male_featured_image.jpg1 34,87,383,361,2
+data/obj/12.drohnenschlacht1.jpg1 59,184,327,403,2 185,85,337,287,0
+data/obj/12.drone-600-px.jpg1 80,49,289,384,2
+data/obj/13.biene-drohne-400-93746102.jpg1 94,93,324,281,2
+data/obj/13.drone-bee-524x277.jpg1 31,55,408,381,2
+data/obj/14.fe_api_castesofhoneybee_clip_image002.jpg1 230,82,355,400,1 16,78,109,296,0 124,57,228,325,2
+data/obj/15.drone-bee.jpg1 33,16,410,365,2
+data/obj/15.fe_api_castesofhoneybee_clip_image002.jpg1 235,82,342,396,1 128,42,255,331,2 22,76,111,296,0
+data/obj/16.449b62cc5d30047b4be412534a39e73a.jpg1 61,112,376,289,2
+data/obj/17.Biene.jpg1 107,61,396,361,0
+data/obj/17.drone-bee.jpg1 34,22,395,367,2
+data/obj/19.image.jpg1 25,61,413,374,2
+data/obj/2.Drone_25a.jpg1 33,155,378,388,2
+data/obj/20.Done-drone.jpg1 61,19,384,397,2
+data/obj/20.what-is-role-of-drones-in-bee-family.jpg1 1,104,407,351,2
+data/obj/21.depositphotos_61415851-stock-photo-bee-drone.jpg1 15,130,367,320,2
+data/obj/21.drone.jpg1 5,92,375,317,2
+data/obj/22.0114-bee-macro-save-our-bees-sydney-australia-400x267.jpg1 2,5,416,382,2
+data/obj/22.honigbiene-drohne-biene-mannlich-b33x3c.jpg1 116,87,381,325,2
+data/obj/23.drone.jpg1 15,89,379,316,2
+data/obj/24.0114-bee-macro-save-our-bees-sydney-australia-400x267.jpg1 4,15,416,375,2
+data/obj/25.beesex.jpg1 70,91,239,356,2 182,93,317,296,0
+data/obj/25.Drohne.jpg1 65,112,352,318,2
+data/obj/26.11150_original.jpg1 56,60,325,259,2
+data/obj/26.biene-drohne-und-bienenarbeiter-close-up-400-99441739.jpg1 160,40,262,252,2 1,244,115,389,0 88,275,231,393,0 28,236,168,300,0 301,289,416,384,0 197,246,338,352,0 239,219,362,293,0
+data/obj/27.11150_original.jpg1 56,58,318,254,2
+data/obj/27.image.jpg1 174,20,322,263,2 135,125,250,349,0
+data/obj/28.472bf08f9b0ce44d56f6b52bd1ca1042.jpg1 176,109,413,271,2 17,175,183,395,0
+data/obj/28.Drohne1.jpg1 24,8,183,292,2 174,76,325,286,0 120,273,330,367,0
+data/obj/28.drone-363060_1920-featured.jpg1 141,81,234,369,2
+data/obj/29.truten-eto-samec-pcheli.jpg1 62,140,374,385,2
+data/obj/3.Drone28-1030x584.jpg1 63,72,412,381,2
+data/obj/30.biene-drohne-apis-mellifera-400-93551184.jpg1 106,34,317,361,2
+data/obj/32.drone-344984_960_720.jpg1 141,108,295,294,2
+data/obj/34.DRONECIMG_6760-680x662.jpg1 96,92,339,360,2 268,1,413,207,0 1,3,161,181,0 98,362,331,414,0 31,215,237,358,0
+data/obj/34.lowres.jpg1 13,54,254,394,2
+data/obj/36.drone_John-Brandauer-600x347.jpg1 150,137,339,368,2 178,32,329,219,0 43,169,159,322,0 124,321,283,413,0 26,1,171,162,0 289,1,416,162,0
+data/obj/37.biene-drohne-400-93551185.jpg1 42,52,362,356,2
+data/obj/37.drone-363060_1920-featured.jpg1 131,82,271,384,2
+data/obj/37.drone_John-Brandauer-600x347.jpg1 146,132,346,367,2 170,31,326,208,0 295,9,416,169,0 31,10,162,169,0 39,165,159,323,0 119,325,283,414,0
+data/obj/4.Drohne.jpg1 68,73,410,335,2
+data/obj/4.types-of-bee-drone-bee.jpg1 32,58,405,378,2
+data/obj/40.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg1 183,46,330,387,1 80,139,198,324,0 295,1,393,252,0
+data/obj/40.honigbiene-drohne-biene-mannlich-b33wmt.jpg1 135,60,245,323,0 49,180,172,361,0 227,162,372,271,0 225,86,347,193,0 288,6,415,105,0 341,207,409,375,0 226,246,350,376,0
+data/obj/41.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg1 183,36,327,384,1 82,140,208,352,0 291,1,395,255,0
+data/obj/42.Drohne.jpg1 144,99,229,211,2 163,220,246,309,2 65,69,116,187,0 30,61,80,178,0 9,1,66,106,0 61,6,130,65,0 204,1,262,72,0 285,3,330,109,0 258,68,294,174,0 212,69,262,178,0 245,217,323,315,0 225,175,307,225,0 304,155,380,232,0 295,87,366,177,0 6,184,86,245,0 109,189,177,270,0 28,244,85,338,0 68,244,111,361,0 100,255,165,348,0 142,305,221,378,0 311,237,359,350,0 360,191,412,288,0 361,278,416,354,0 218,249,254,355,0 57,358,130,408,0 246,313,291,408,0 279,346,363,409,0 3,317,56,407,0 28,242,79,338,0
+data/obj/43.Das_20Bienenvolk_Koenigin_2C_20Drohnen_20und_20_20Arbeiterinnen_shutterstock_63903511-e3d677eb.jpg1 101,186,281,325,2 8,58,127,209,0 67,1,175,176,0 190,1,287,164,0 268,1,383,166,0 277,150,402,282,0 206,319,333,416,0 1,239,100,405,0
+data/obj/48.drohne-oder-biene-9b32cac2-2d08-4218-ab29-8e68ea8db925.jpg1 19,9,279,393,2
+data/obj/48.drone-big-eyes2.jpg1 34,61,355,354,2
+data/obj/49.depositphotos_160818248-stock-photo-bee-and-drone.jpg1 48,93,230,302,2 224,121,380,322,0
+data/obj/5.drohn-arbeitsbiene.5ff41bd89d3727646d9383b405b2680d.jpg1 100,131,295,412,0 67,45,365,210,2
+data/obj/5.Drone-bee-and-workers - Kopie.jpg1 172,102,286,265,2 57,7,194,143,0 1,207,79,327,0 115,278,222,367,0 111,184,186,305,0 300,180,409,299,0 333,57,411,170,0
+data/obj/5.Drone-bee-and-workers.jpg1 53,1,180,140,0 169,104,304,270,2 94,183,190,301,0 1,207,84,340,0 107,275,229,374,0 300,184,409,303,0 327,57,412,172,0
+data/obj/51.drone-big-eyes2.jpg1 23,56,368,358,2
+data/obj/52.maxresdefault.jpg1 106,189,256,351,2
+data/obj/53.maxresdefault.jpg1 111,187,259,350,2
+data/obj/54.Drone-Bee.jpg1 42,73,327,332,2
+data/obj/55.drone-bee-inside-a-beehive.jpg1 131,71,293,324,2 1,1,143,139,2 315,199,416,366,2 25,200,143,389,0 58,349,204,416,0
+data/obj/56.Drone-Bee.jpg1 67,79,306,342,2
+data/obj/58.bee_carefulseptember-kolumne-lea-fabienne.png.thumb.jpg1 143,129,221,271,0
+data/obj/59.drohne.jpg1 61,15,365,382,2
+data/obj/59.drone-bee-inside-a-beehive.jpg1 129,70,312,328,2 1,1,147,149,0 30,202,150,384,0 312,198,416,370,0
+data/obj/59.IMG_7561.jpg1 1,136,312,349,2
+data/obj/6.84703147-biene-k_C3_B6nigin-mutter-und-drohne-und-bienen-arbeiter-drei-arten-von-bienen-apis-mellifera-.jpg1 7,147,162,306,1 156,137,287,320,2 295,182,407,305,0
+data/obj/6.maxresdefault.jpg1 220,225,265,291,3 49,46,374,372,0
+data/obj/60.bestaeubung-102-resimage_v-variantBig24x9_w-1024.jpg1 170,16,369,285,0
+data/obj/61.bee-2373914_1920-1-e1508135869786-1620x800.jpg1 208,9,369,358,0
+data/obj/63.IMG_7561.jpg1 1,130,319,351,2
+data/obj/64.a673304c8f6b551e6b4d5438545cc43d.jpg1 73,138,326,278,2
+data/obj/64.bGryUv4.jpg1 62,116,280,270,0 223,59,362,322,2
+data/obj/66.248643.image0.jpg1 16,54,112,285,0 116,56,248,336,2 266,60,393,389,1
+data/obj/67.bGryUv4.jpg1 59,99,281,273,1 216,60,354,327,2
+data/obj/67.drone-363060_960_720.jpg1 155,137,264,308,2
+data/obj/7.220px-Drohn_im_Flug_08-3.jpg1 42,73,320,383,2
+data/obj/7.dronebee.jpg1 56,20,391,390,2
+data/obj/70.image.jpg1 125,125,269,339,2
+data/obj/73.drohne-fliegen-eristalis-tenex-ein-hoverfly-biene-nachahmen-m4a8ay.jpg1 114,34,337,337,2
+data/obj/74.Drohn.jpg1 154,119,268,234,2
+data/obj/79.extreme-close-up-of-a-drone-bee-on-a-patch-of-moss-HYMYC2.jpg1 52,78,212,279,0
+data/obj/79.extreme-nahaufnahme-einer-drohne-biene-auf-einen-patch-des-mooses-hymyc3.jpg1 156,123,335,269,0
+data/obj/8.Apis_mellifera_Male_featured_image.jpg1 30,83,373,358,2
+data/obj/8.b66c6a11fc9951557cc083095a1db9c9.jpg1 17,56,142,381,1 142,56,258,297,0 271,49,391,343,2
+data/obj/8.dronebee.jpg1 59,22,392,402,2
+data/obj/83.DroneMating.jpg1 137,7,329,403,2
+data/obj/84.image.jpg1 62,49,361,380,2
+data/obj/86.bee-drone-bee-workers-close-up-98524160.jpg1 180,242,343,354,0 62,184,172,337,0 161,32,262,202,2
+data/obj/88.biene-blume.jpg1 332,76,416,211,0
+data/obj/9.canstockphoto16388515.jpg1 32,63,371,364,2
+data/obj/9.honey-bee-drone-aw.jpg1 9,22,409,367,2
+data/obj/90.drohn-arbeiterin.jpg1 112,93,353,271,2
+data/obj/92.depositphotos_89611428-stock-photo-drone-bee-on-the-flower.jpg1 104,99,267,353,0
+data/obj/93.500_F_109984372_vcTrG2pvkwmRHydBsGrcYpvHImnqgWwS.jpg1 35,76,91,129,3 233,58,309,137,3 229,151,296,243,3 348,235,403,307,3 304,332,366,369,3
+data/obj/94.drohne.jpg1 82,65,394,368,2
