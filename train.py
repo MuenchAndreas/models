@@ -30,7 +30,7 @@ def _main():
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
     else:
         model = create_model(input_shape, anchors, num_classes,
-            freeze_body=2, weights_path='drive/My Drive/yolo_weights.h5') # make sure you know what you freeze
+            freeze_body=2, weights_path='drive/My Drive/yolo_4classes.h5') # make sure you know what you freeze
 
     logging = TensorBoard(log_dir=log_dir)
     checkpoint = ModelCheckpoint(log_dir + 'epoch.h5')
